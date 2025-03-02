@@ -1,0 +1,57 @@
+name: Check for New Internships
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  check_upstream_internships:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch full history for rebase
+
+      - name: Add and fetch upstream
+        run: |
+          git remote add upstream https://github.com/cvrve/Summer2025-Internships.git || true
+          git fetch upstream main
+
+      - name: Rebase with upstream while keeping custom files
+        run: |
+          git stash push --include-untracked  # Save local changes
+          git rebase upstream/main || (git rebase --abort && git stash pop)
+          git checkout -- .github/workflows/check_internships.yml .github/scripts/check_internships.py  # Restore custom files
+          git stash pop || true  # Recover any other stashed changes
+          git push origin main --force  # Push updates while keeping custom files
+
+      - name: Check if listing.json was updated upstream
+        id: check_file
+        run: |
+          UPSTREAM_LATEST=$(git ls-remote upstream main | awk '{print $1}')
+          LOCAL_LATEST=$(git rev-parse HEAD)
+
+          git diff --name-only $LOCAL_LATEST $UPSTREAM_LATEST | grep -q ".github/scripts/listing.json" && echo "changed=true" >> $GITHUB_ENV || echo "changed=false" >> $GITHUB_ENV
+
+      - name: Set up Python
+        if: env.changed == 'true'
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        if: env.changed == 'true'
+        run: pip install requests
+
+      - name: Download updated listing.json from upstream
+        if: env.changed == 'true'
+        run: |
+          curl -o .github/scripts/listing.json https://raw.githubusercontent.com/cvrve/Summer2025-Internships/main/.github/scripts/listing.json
+
+      - name: Run internship checker
+        if: env.changed == 'true'
+        env:
+          NTFY_TOPIC: "internship-alerts"  # Replace with your ntfy.sh topic
+        run: python .github/scripts/check_internships.py
