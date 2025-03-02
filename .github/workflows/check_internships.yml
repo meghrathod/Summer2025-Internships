@@ -17,7 +17,7 @@ jobs:
       - name: Add and fetch upstream
         run: |
           git remote add upstream https://github.com/cvrve/Summer2025-Internships.git || true
-          git fetch upstream main
+          git fetch upstream dev
 
       - name: Rebase with upstream while keeping custom files
         run: |
