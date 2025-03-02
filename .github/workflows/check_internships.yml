@@ -1,0 +1,58 @@
+name: Check for New Internships
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  check_upstream_internships:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch full history
+
+      - name: Set Git Identity
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+
+      - name: Add and fetch upstream
+        run: |
+          git remote add upstream https://github.com/cvrve/Summer2025-Internships.git || true
+          git fetch upstream dev
+
+      - name: Merge upstream/dev into main while keeping custom files
+        run: |
+          git checkout main
+          git merge --no-edit upstream/dev || echo "Merge conflicts detected, resolving..."
+          git checkout -- .github/workflows/check_internships.yml .github/scripts/check_internships.py  # Restore custom files
+          git push origin main  # Push merged changes to fork
+      
+      - name: Determine last commit
+        id: last_commit
+        run: echo "LAST_COMMIT=$(git rev-parse HEAD)" >> $GITHUB_ENV
+
+      - name: Check if listing.json was updated upstream
+        id: check_file
+        run: |
+          git diff --name-only ${{ steps.last_commit.outputs.LAST_COMMIT }} HEAD | grep -q ".github/scripts/listing.json" && echo "changed=true" >> $GITHUB_ENV || echo "changed=false" >> $GITHUB_ENV
+          echo "Changed: ${{ env.changed }}"
+
+      - name: Set up Python
+        if: env.changed == 'true'
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        if: env.changed == 'true'
+        run: pip install requests
+
+      - name: Run internship checker
+        if: env.changed == 'true'
+        env:
+          NTFY_TOPIC: "internship-alerts"  # Using your ntfy.sh topic
+        run: python .github/scripts/check_internships.py
