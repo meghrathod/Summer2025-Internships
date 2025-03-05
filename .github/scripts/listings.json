@@ -68410,5 +68410,39 @@
         "date_posted": 1741114501,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1741132003,
+        "url": "http://redirect.cvrve.me/019b0766d155f81da8b7",
+        "locations": [
+            "North Reading, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Teradyne",
+        "title": "Software Quality Engineer Co-op",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "3d62a2e9-33ea-46c4-a723-c5cc9254d513",
+        "date_posted": 1741132003,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1741132395,
+        "url": "http://redirect.cvrve.me/9fc0e02c032cf3c7d305",
+        "locations": [
+            "Bay Area, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Block",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "cvrve-bot",
+        "id": "195f9060-7106-4026-9454-bad5593b9731",
+        "date_posted": 1741132395,
+        "company_url": "",
+        "is_visible": true
     }
 ]
