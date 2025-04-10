@@ -72442,5 +72442,381 @@
         "date_posted": 1744269311,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744269363,
+        "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Intern--Software-Engineering_JR011519",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "LiveRamp",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "daffaaa2-2b25-4be7-8686-749ffecf0c96",
+        "date_posted": 1744269363,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744269392,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Intern--Server-Firmware-Manageability---Summer-2025_JR1989482",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Server Firmware Manageability Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d3343afa-ec93-4233-b3f2-9f2f58e38a1c",
+        "date_posted": 1744269392,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744269433,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--NGC-Data-Platform---Fall-2025_JR1990285",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Intern, NGC Data Platform - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "25ed1b44-e5ed-4988-bbb0-192fe1f83d19",
+        "date_posted": 1744269433,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744269580,
+        "url": "https://www.artisanpartners.com/careers/career-opportunities.html?gh_jid=6790014",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Artisan Partners",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4f033b31-7a5c-4693-9a29-b192ebaac6fd",
+        "date_posted": 1744269580,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744269769,
+        "url": "https://jobs.ashbyhq.com/olive/113c9846-0310-44f1-bf10-4a8fed8c53be",
+        "locations": [
+            "San Francisco, CA",
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Olive - YC",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "634c8f16-ba5f-4386-a0d4-b05e4a9f148d",
+        "date_posted": 1744269769,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744269824,
+        "url": "https://jobs.jobvite.com/careers/gigamon/job/ocANvfwO",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gigamon",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "01243566-e82b-4c5e-9fa1-e8b5cda9ca14",
+        "date_posted": 1744269824,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744269875,
+        "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Hague-Road-Technical-Center---Indianapolis--Indiana_JR32259-1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Allegion",
+        "title": "Firmware Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b830c26b-77a5-4724-8d71-adca02957374",
+        "date_posted": 1744269875,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744269903,
+        "url": "https://careers.unitedregional.org/en/sites/unitedregionalcareers/job/10835",
+        "locations": [
+            "Wichita Falls, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "United Regional Health Care System, Inc",
+        "title": "Robotic Process Automation Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "55388c06-7ae2-40fe-9165-bb4424a83a46",
+        "date_posted": 1744269903,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744270025,
+        "url": "https://apply.ukg.com/careers/job/893380942580",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "UKG",
+        "title": "Software Engineering Intern - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "4e7f865d-d913-4bbf-af21-8daee3f5e9a3",
+        "date_posted": 1744270025,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744270494,
+        "url": "https://jobs.ametek.com/job/Herndon-Software-Engineering-Intern-VA-20171/1280672200/",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ametek",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "09271a80-b8c1-417a-b9f2-a74cd885d11c",
+        "date_posted": 1744270494,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744270531,
+        "url": "https://jobs.citizensbank.com/job/-/-/288/79796233088",
+        "locations": [
+            "Johnston, RI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citizens",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2fb53f6a-b206-436b-90f7-238534491598",
+        "date_posted": 1744270531,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744270638,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DGX-Cloud-Platform-Software-Engineer-Intern--Summer-2025_JR1994801",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "DGX Cloud Platform Software Engineer Intern - Fall",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "215b6640-da35-4ecb-b60e-5bb35d10efe5",
+        "date_posted": 1744270638,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744270686,
+        "url": "https://www.tesla.com/careers/search/job/241053",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Controls Engineer Intern, Optimus - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "06a66d4b-7139-4aee-9563-e08f6ac6b339",
+        "date_posted": 1744270686,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744271326,
+        "url": "https://www.tesla.com/careers/search/job/240982",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Fullstack Engineer, Cell Manufacturing Software Intern - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "48cc21d4-8358-4679-84f5-96cdd216ff04",
+        "date_posted": 1744271326,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744271371,
+        "url": "https://www.tesla.com/careers/search/job/240953",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Haskell Software Developer, Vehicle Firmware Intern - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "92a37e8d-7652-4f27-bf5d-c829fca1ffca",
+        "date_posted": 1744271371,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744271564,
+        "url": "https://jobs.ashbyhq.com/delinea/c20f90dc-e242-4431-b2ee-559d4f4c359a",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Delinea",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "628a0ac6-3853-44a9-9c1d-72d03263ea10",
+        "date_posted": 1744271564,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744271648,
+        "url": "https://careers.amd.com/careers-home/jobs/63596/job",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Engineering Intern/Co-op - Masters - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "2a7705a7-5237-4734-b75f-d1ccc91fa159",
+        "date_posted": 1744271648,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744271721,
+        "url": "https://www.tesla.com/careers/search/job/240980",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Red Team Security Engineer, Vehicle Software Intern - Fall",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0a3eac61-6cfb-4adb-91fb-0dd2f28c7ead",
+        "date_posted": 1744271721,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744271804,
+        "url": "https://careers.amd.com/careers-home/jobs/63597/job",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Firmware Engineering Intern/ Co-Op - Masters - Fall",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3fecf134-032b-4b09-98ca-8d107579837d",
+        "date_posted": 1744271804,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744271845,
+        "url": "https://careers-calamp.icims.com/jobs/4162/job",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "CalAmp",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f43cc627-7d06-465d-a6d2-656c42b8d26c",
+        "date_posted": 1744271845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744271879,
+        "url": "https://careers.boozallen.com/careers/JobDetail?jobId=110599",
+        "locations": [
+            "McLean, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Booz Allen",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "146ae4f1-5011-4d30-aa74-b42c20108ce1",
+        "date_posted": 1744271879,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744272276,
+        "url": "https://vulcanforms.bamboohr.com/careers/446",
+        "locations": [
+            "Devens, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "VulcanForms",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "55787e68-8731-4536-89a2-94254cb14df2",
+        "date_posted": 1744272276,
+        "company_url": "",
+        "is_visible": true
     }
 ]
