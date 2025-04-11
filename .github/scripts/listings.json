@@ -72835,5 +72835,125 @@
         "date_posted": 1744317983,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1744342983,
+        "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4552477005",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Glean",
+        "title": "Software Engineer Intern - Design Systems",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f1be8b00-1a7e-4714-bdb5-005f6042797f",
+        "date_posted": 1744342983,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744343324,
+        "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4552718005",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Glean",
+        "title": "Content Design Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "45a320f9-c0ad-4664-b73f-ffb36c077a77",
+        "date_posted": 1744343324,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744344371,
+        "url": "https://careers.heb.com/jobs/154916/job",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "HEB",
+        "title": "Software Engineer Intern, React - Highschool",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "222ec0fe-f27c-43f0-b965-2bb9dc4a9c27",
+        "date_posted": 1744344371,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744344423,
+        "url": "https://job-boards.greenhouse.io/mill/jobs/4552862005",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mill",
+        "title": "Firmware Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "817143a7-977b-48f6-aa11-dbced1a6f65a",
+        "date_posted": 1744344423,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744344471,
+        "url": "https://careers.servicenow.com/jobs/744000053195651/intern-associate-software-engineer/",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "Associate Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e46b1271-25e4-446d-af16-cde0857db7a2",
+        "date_posted": 1744344471,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744344619,
+        "url": "https://careers.docusign.com/jobs/26679",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Docusign",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "586b0f6e-fcaa-4c5a-b57d-a00c9c1a9787",
+        "date_posted": 1744344619,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1744344789,
+        "url": "https://job-boards.greenhouse.io/rocketlawyer/jobs/4592512008",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rocket Lawyer",
+        "title": "Data Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "14e84d92-d8c6-4038-89cd-f5b93d73a64e",
+        "date_posted": 1744344789,
+        "company_url": "",
+        "is_visible": true
     }
 ]
