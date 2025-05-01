@@ -74455,5 +74455,39 @@
         "date_posted": 1746114921,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746123755,
+        "url": "https://careers.servicenow.com/jobs/744000056800032/software-quality-engineer-intern-summer-2025/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ServiceNow",
+        "title": "Software Quality Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d0966d46-3fb0-4dd0-8970-b784acc028e7",
+        "date_posted": 1746123755,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746123860,
+        "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Engineering-Intern-Summer-2025-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1287519100/?feedId=320000",
+        "locations": [
+            "North Reading, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Teradyne",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9d0ca4fb-8004-4317-a2c0-dd5be8522d8a",
+        "date_posted": 1746123860,
+        "company_url": "",
+        "is_visible": true
     }
 ]
