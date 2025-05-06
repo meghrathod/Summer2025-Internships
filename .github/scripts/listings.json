@@ -74506,5 +74506,142 @@
         "date_posted": 1746373101,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1746564690,
+        "url": "https://jobs.lever.co/nimblerx/58e71e79-f977-4311-894d-f77e5fe88dce",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nimble",
+        "title": "Software Engineer Intern - Fall",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d4188e2a-c65c-4d7d-83d4-37ca1b8b95f6",
+        "date_posted": 1746564690,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746564783,
+        "url": "https://jobs.battelle.org/us/en/job/BMIBMIUS75470EXTERNALENUS/Cyber-Trust-Analytics-Intern-Fall-2025",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Battelle",
+        "title": "Cyber Trust & Analytics Intern - Fall",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "43089dc6-3361-46dc-8b75-f4957eb8e54b",
+        "date_posted": 1746564783,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746564839,
+        "url": "https://job-boards.greenhouse.io/iherb/jobs/6565279003?gh_src=126eb9ef3us",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "iHerb",
+        "title": "Front End Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0133f049-5430-4329-9270-3a5e61a3d861",
+        "date_posted": 1746564839,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746564874,
+        "url": "https://job-boards.greenhouse.io/iherb/jobs/6565266003?gh_src=051ec5f33us",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "iHerb",
+        "title": "Software Developer Intern - Backend",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "86572c34-7319-410e-81ba-8d24292c7e8f",
+        "date_posted": 1746564874,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746564957,
+        "url": "https://gen.wd1.myworkdayjobs.com/en-US/careers/job/USA---Arizona-Tempe/Site-Reliability-Engineer-Intern_54148-1",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Gen",
+        "title": "Site Reliability Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "dcc1afad-ee03-43c2-acb1-76e172ba9dac",
+        "date_posted": 1746564957,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746564998,
+        "url": "https://activision.wd1.myworkdayjobs.com/en-US/External/job/Sherman-Oaks/Machine-Learning-Security-Intern_R024774-1",
+        "locations": [
+            "Sherman Oaks, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Activision",
+        "title": "Machine Learning Security Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "74f6389e-5718-47fe-9789-4fd4b8236a2a",
+        "date_posted": 1746564998,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746565065,
+        "url": "https://amainc.wd12.myworkdayjobs.com/en-US/AMA_Careers/job/Hampton-VA/Artificial-Intelligence-Intern_R-100277",
+        "locations": [
+            "Hampton, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "AMA",
+        "title": "Artificial Intelligence Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "872dd2e6-ae41-42c3-bc5b-5126ca6e1cd7",
+        "date_posted": 1746565065,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1746565196,
+        "url": "https://careers.caterpillar.com/en/jobs/r0000303666/part-time-intern-engineering/",
+        "locations": [
+            "Mossville, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Caterpillar",
+        "title": "Part-Time Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bf925395-7c2e-4b02-bfad-e5aa01d986eb",
+        "date_posted": 1746565196,
+        "company_url": "",
+        "is_visible": true
     }
 ]
