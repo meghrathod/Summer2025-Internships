@@ -75374,5 +75374,57 @@
         "date_posted": 1747170022,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1747299637,
+        "url": "https://www.brex.com/careers/7985666002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brex",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b9045402-c439-4d24-af19-52a10bc3df7c",
+        "date_posted": 1747299637,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1747299682,
+        "url": "https://www.tesla.com/careers/search/job/242996",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Factory Firmware Hardware Design Engineer Intern, Vehicle Firmware - Fall",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "100f17d2-08bf-49b7-a239-4ed9d456b0d6",
+        "date_posted": 1747299682,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1747299758,
+        "url": "https://jobs.ashbyhq.com/ramp/0f1c331d-21b6-44fb-a326-5357d6e30188",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ramp",
+        "title": "Software Engineer Intern - Fall",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "f9d5d5dc-57e7-43af-94d5-e95a41e1d8f6",
+        "date_posted": 1747299758,
+        "company_url": "",
+        "is_visible": true
     }
 ]
