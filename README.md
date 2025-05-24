@@ -1,10 +1,10 @@
-# Summer 2025 Tech Internships by Vansh & Ouckah
+# Summer 2026 Tech Internships by Vansh & Ouckah
 
-The torch has been passed. Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2025 and Summer 2026**. The list is maintained collaboratively by Vansh and [CSCareers](https://discord.gg/cscareers)!
+The torch has been passed. Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2026**. The list is maintained collaboratively by Vansh and [CSCareers](https://discord.gg/cscareers)!
 
 :warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
 
-🙏 **Contribute by submitting an [issue](https://github.com/Ouckah/Summer2025-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
+🙏 **Contribute by submitting an [issue](https://github.com/vanshb03/Summer2026-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/Summer2024-Internships).
 
@@ -41,13 +41,12 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 
 > For new-grad tech jobs, check out [New-Grad](https://github.com/cvrve/New-Grad).
 
-[⬇️ Jump to bottom ⬇️](https://github.com/Ouckah/Summer2025-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
+[⬇️ Jump to bottom ⬇️](https://github.com/vanshb03/Summer2026-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | OpenAI | Software Engineer Intern/Co-Op, Applied Engineering | San Francisco, CA</br>Seattle, WA | <a href="https://jobs.ashbyhq.com/openai/a04c133d-f969-4ce0-9217-b639232a1f09?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 22 |
-| Tesla | Factory Firmware Hardware Design Engineer Intern, Vehicle Firmware - Fall | Fremont, CA | <a href="https://www.tesla.com/careers/search/job/242996?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | Brex | Software Engineer Intern | New York, NY | <a href="https://www.brex.com/careers/7985666002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 15 |
 | Chubb | Software Engineer Intern | Jersey City, NJ | <a href="https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/20929?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 13 |
 | Western Digital | Servo Firmware Intern | San Jose, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000058636185?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 10 |
@@ -66,24 +65,18 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Activision-Blizzard | AI Engineering Intern, Infinity Ward | Canoga Park, LA | <a href="https://activision.wd1.myworkdayjobs.com/External/job/Woodland-Hills/XMLNAME-2025-US-Summer-Internships---AI-Engineering---Infinity-Ward_R025309?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 10 |
 | Tesla | Hardware Design Engineer Intern, Silicon Development | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/242482?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | ↳ | Fullstack Engineer Intern, Design Technology | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/236327?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
-| StackAdapt | Data Analyst Intern | Remote | Canada | <a href="https://jobs.lever.co/stackadapt/62f59dd6-8766-4fee-9615-f26895c1852a/apply?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
+| StackAdapt | Data Analyst Intern | Remote</br>Canada | <a href="https://jobs.lever.co/stackadapt/62f59dd6-8766-4fee-9615-f26895c1852a/apply?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | QuEra Computing | Scientific Software Intern | Boston, MA | <a href="https://job-boards.greenhouse.io/queracomputinginc/jobs/4670658008?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | Later | Data Analyst Intern, Co-Op | Vancouver, BC, Canada | <a href="https://job-boards.greenhouse.io/later/jobs/7989112002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | KION | Software Engineer Intern | Grand Rapids, MI | <a href="https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineer-Intern_JR-0075878?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | Elekta | Software Development Intern | San Jose, CA | <a href="https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/San-Jose/Software-Development-Intern--San-Jose--CA_R2024-2430?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
-| Cadence Design Systems | Software Engineering Intern | Austin, TX | <a href="https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Software-Engineering-Intern--Summer-2025-_R49943-2?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
-| ↳ | Software Engineering Intern | Austin, TX | <a href="https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Software-Engineering-Intern--Summer-2025-_R49944-1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
 | Aquatic Capital Management | Quantitative Researcher Intern | Chicago, IL | <a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7985726002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 08 |
-| Nimble | Software Engineer Intern - Fall | Redwood City, CA | <a href="https://jobs.lever.co/nimblerx/58e71e79-f977-4311-894d-f77e5fe88dce?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 06 |
 | iHerb | Software Developer Intern - Backend | Irvine, CA | <a href="https://job-boards.greenhouse.io/iherb/jobs/6565266003?gh_src=051ec5f33us&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 06 |
 | ↳ | Front End Software Engineer Intern | Remote</br>US | <a href="https://job-boards.greenhouse.io/iherb/jobs/6565279003?gh_src=126eb9ef3us&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 06 |
 | Gen | Site Reliability Engineer Intern | Tempe, AZ | <a href="https://gen.wd1.myworkdayjobs.com/en-US/careers/job/USA---Arizona-Tempe/Site-Reliability-Engineer-Intern_54148-1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 06 |
 | Caterpillar | Part-Time Engineering Intern | Mossville, IL | <a href="https://careers.caterpillar.com/en/jobs/r0000303666/part-time-intern-engineering/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 06 |
-| Battelle | Cyber Trust & Analytics Intern - Fall | Columbus, OH | <a href="https://jobs.battelle.org/us/en/job/BMIBMIUS75470EXTERNALENUS/Cyber-Trust-Analytics-Intern-Fall-2025?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 06 |
 | AMA | Artificial Intelligence Intern 🇺🇸 | Hampton, VA | <a href="https://amainc.wd12.myworkdayjobs.com/en-US/AMA_Careers/job/Hampton-VA/Artificial-Intelligence-Intern_R-100277?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 06 |
 | Activision | Machine Learning Security Intern | Sherman Oaks, CA | <a href="https://activision.wd1.myworkdayjobs.com/en-US/External/job/Sherman-Oaks/Machine-Learning-Security-Intern_R024774-1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 06 |
-| Teradyne | Software Engineering Intern | North Reading, MA | <a href="https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Engineering-Intern-Summer-2025-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1287519100/?feedId=320000&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
-| ServiceNow | Software Quality Engineer Intern | Santa Clara, CA | <a href="https://careers.servicenow.com/jobs/744000056800032/software-quality-engineer-intern-summer-2025/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 01 |
 | Highspot | Associate Engineer Intern | Seattle, WA | <a href="https://jobs.lever.co/highspot/3cd0d0b8-d281-44c8-92b6-20714a3d47e6/apply?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 30 |
 | Articul8 | Intern – Software Engineer | Dublin, CA | <a href="https://jobs.ashbyhq.com/articul8/229af139-7ceb-4f27-9bb2-f9bd96df03b2/application?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 30 |
 | Intuitive Surgical | Software Engineering Co-op | Durham, NC | <a href="https://jobs.smartrecruiters.com/Intuitive/744000056483405?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 29 |
@@ -99,27 +92,20 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Smith Micro | AI & Data Science Intern | Aliso Viejo, CA | <a href="https://www.smithmicro.com/careers/job/?jobid=f21bfad8-72b3-4a15-88e2-1eb9fddcdc97&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 15 |
 | ↳ | Engineering Intern | Pittsburgh, PA | <a href="https://www.smithmicro.com/careers/job/?jobid=2bfc8694-31d8-4843-bab1-731075b9b15b&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 15 |
 | Proofpoint | DevOps Intern | Dreper, UT | <a href="https://proofpoint.wd5.myworkdayjobs.com/en-US/proofpointcareers/job/Draper-UT/DevOps-Intern_R12165?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 15 |
-| NVIDIA | Systems Software Engineering Intern, Distributed Systems | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineering-Intern--Distributed-Systems---Summer-2025_JR1994245?source=Appcast_Indeedo&ittk=ACUDO4ISHS&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 15 |
 | MoneyLion | AI Content Intern | New York, NY | <a href="https://www.moneylion.com/careers-apply/?gh_jid=5497848004&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 15 |
 | ↳ | Backend Java Engineering Intern | New York, NY | <a href="https://www.moneylion.com/careers-apply/?gh_jid=5497867004&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 15 |
 | ↳ | Data Science Intern | New York, NY | <a href="https://www.moneylion.com/careers-apply/?gh_jid=5497807004&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 15 |
 | Henry Schein | Big Data Intern | Remote | <a href="https://henryschein.wd1.myworkdayjobs.com/en-US/External_Careers/job/New-York---Remote/Big-Data-Summer-Intern_R129407?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 15 |
 | CyberArk | AI GTM Intern | Newton, MA | <a href="https://www.cyberark.com/careers/all-job-openings/job-post/?job_id=744000052969960&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 15 |
 | ↳ | Site Reliability Engineer Intern | Newton, MA | <a href="https://www.cyberark.com/careers/all-job-openings/job-post/?job_id=744000053184825&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 15 |
-| Western Digital | Failure Analysis Engineering Intern | San Jose, CA | <a href="https://jobs.smartrecruiters.com/WesternDigital/744000053727625-summer-2025-intern-failure-analysis-engineering?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 14 |
-| NVIDIA | Deep Learning Server Software Intern, DGX | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Server-Software-Intern--DGX---Summer-2025_JR1989683?utm_source=Simplify&ref=Simplify&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 11 |
 | United Regional Health Care System, Inc | Robotic Process Automation Engineer Intern | Wichita Falls, TX | <a href="https://careers.unitedregional.org/en/sites/unitedregionalcareers/job/10835?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
-| Tesla | Red Team Security Engineer, Vehicle Software Intern - Fall | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/240980?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | ServiceNow | Associate Software Engineer Intern | Santa Clara, CA | <a href="https://careers.servicenow.com/jobs/744000053195651/intern-associate-software-engineer/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | Qualtrics | Software Engineer Intern, Voice | Seattle, WA | <a href="https://www.qualtrics.com/careers/us/en/job/QUALUS6783987EXTERNALENUS/Software-Engineer-Intern-Voice?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
-| NVIDIA | DGX Cloud Platform Software Engineer Intern - Fall | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DGX-Cloud-Platform-Software-Engineer-Intern--Summer-2025_JR1994801?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
-| ↳ | Server Firmware Manageability Intern | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Intern--Server-Firmware-Manageability---Summer-2025_JR1989482?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | LiveRamp | Software Engineering Intern | San Francisco, CA | <a href="https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Intern--Software-Engineering_JR011519?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | CalAmp | Software Engineer Intern | Carlsbad, CA | <a href="https://careers-calamp.icims.com/jobs/4162/job?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | Bridgewater Associates | Campus Investment Engineer Intern - 2026 | New York, NY | <a href="https://job-boards.greenhouse.io/bridgewatercampusrecruiting/jobs/7950103002?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | Artisan Partners | Software Developer Intern | Milwaukee, WI | <a href="https://www.artisanpartners.com/careers/career-opportunities.html?gh_jid=6790014&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | Ametek | Software Engineering Intern | Herndon, VA | <a href="https://jobs.ametek.com/job/Herndon-Software-Engineering-Intern-VA-20171/1280672200/?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
-| AMD | Firmware Engineering Intern/ Co-Op - Masters - Fall | Austin, TX | <a href="https://careers.amd.com/careers-home/jobs/63597/job?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | Allegion | Firmware Engineer Intern | Indianapolis, IN | <a href="https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Hague-Road-Technical-Center---Indianapolis--Indiana_JR32259-1?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 10 |
 | Proofpoint | Threat Detection Engineer Intern | <details><summary>**6 locations**</summary>Sunnyvale, CA</br>Austin, TX</br>Draper, UT</br>Newton, MA</br>Greenwood Village, CO</br>Pittsburgh, PA</details> | <a href="https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/California/Threat-Detection-Engineer-Intern_R12162-1?q=Intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 09 |
 | ↳ | Security Research Engineer Intern | <details><summary>**6 locations**</summary>Sunnyvale, CA</br>Austin, TX</br>Draper, UT</br>Newton, MA</br>Greenwood Village, CO</br>Pittsburgh, PA</details> | <a href="https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/California/Security-Research-Engineer-Intern_R12161?q=Intern&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 09 |
@@ -135,14 +121,14 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Benjamin Moore | DevOps Engineer Intern | Montvale, NJ | <a href="https://careers-benjaminmoore.icims.com/jobs/1930/job?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Apr 03 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
-[⬆️ Back to Top ⬆️](https://github.com/Ouckah/Summer2025-Internships#the-list-)
+[⬆️ Back to Top ⬆️](https://github.com/vanshb03/Summer2026-Internships#the-list-)
 
 ## We love our contributors ❤️❤️
 
-Contribute by submitting an [issue](https://github.com/Ouckah/Summer2025-Internships/issues/new/choose)!
+Contribute by submitting an [issue](https://github.com/vanshb03/Summer2026-Internships/issues/new/choose)!
 
-<a href="https://github.com/ouckah/Summer2025-Internships/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ouckah/Summer2025-Internships" />
+<a href="https://github.com/vanshb03/Summer2026-Internships/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=vanshb03/Summer2026-Internships" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks)!
