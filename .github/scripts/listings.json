@@ -1065,5 +1065,73 @@
         "date_posted": 1748109811,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748135738,
+        "url": "https://www.stokespace.com/careers/current-openings/?gh_jid=5500675004",
+        "locations": [
+            "Kent, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Stoke Space",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ebf41b25-e4f1-47e1-b7cf-f1db857f8e8c",
+        "date_posted": 1748135738,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748135782,
+        "url": "https://jobs.citi.com/job/new-york/markets-quantitative-analysis-summer-analyst-new-york-city-us-2026/287/77659897200",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citi",
+        "title": "Quantitative Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "29420c35-16c9-4f56-acaf-613e8b5653b6",
+        "date_posted": 1748135782,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748135823,
+        "url": "https://group.bnpparibas/en/careers/job-offer/2026-summer-analyst-internship-technology",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BNP Paribas",
+        "title": "Summer Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c2b21661-422f-4182-bddb-47793bd82bcb",
+        "date_posted": 1748135823,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748135864,
+        "url": "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/NEW-YORK-CITY/New-York-City-Digital-Intern---2026_JR-254945",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Protiviti",
+        "title": "Digital Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "c9998b27-de30-404c-b0da-560a7e5b8dea",
+        "date_posted": 1748135864,
+        "company_url": "",
+        "is_visible": true
     }
 ]
