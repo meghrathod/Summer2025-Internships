@@ -1133,5 +1133,277 @@
         "date_posted": 1748135864,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748136991,
+        "url": "https://www.sgh.com/careers/job-openings/view-job/?gh_jid=7835075002",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Simpson Gumpertz & Heger",
+        "title": "Building Technology Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b369b5dd-1cf7-429b-a18a-4e2d99079d1c",
+        "date_posted": 1748136991,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748137043,
+        "url": "https://www.deshaw.com/careers/proprietary-trading-intern-new-york-summer-2026-5379",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "D.E Shaw",
+        "title": "Proprietary Trading Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f6db5b21-9d7e-4a7e-9c74-b5d58b34e0c4",
+        "date_posted": 1748137043,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748137106,
+        "url": "https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2026-5378",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "D.E Shaw",
+        "title": "Fundamental Research Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ad838857-2d4c-4e16-b227-726ea9ae2829",
+        "date_posted": 1748137106,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748137289,
+        "url": "https://voloridge-investment-management.hiringthing.com/job/889648/research-software-engineer-intern-2026",
+        "locations": [
+            "Jupiter, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Voloridge",
+        "title": "Research Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b746ce2c-0eb4-4ce2-b3df-7d66f7dcccdd",
+        "date_posted": 1748137289,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748137316,
+        "url": "https://voloridge-investment-management.hiringthing.com/job/889639/quantitative-research-intern-2026",
+        "locations": [
+            "Jupiter, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Voloridge",
+        "title": "Quantitative Research Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a0116925-ec94-42c0-92e6-479fa1e97aa0",
+        "date_posted": 1748137316,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748137378,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7990895002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Aquatic Capital Management",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9ecafac9-6d95-4d0a-b80a-02801756cd47",
+        "date_posted": 1748137378,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748137917,
+        "url": "https://boards.greenhouse.io/embed/job_app?for=gsacapital&token=7526394002",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GSA Capital",
+        "title": "Quantitative Researcher Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f32cb2b5-99e8-44c6-9809-e74574d52aef",
+        "date_posted": 1748137917,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748138389,
+        "url": "https://www.janestreet.com/join-jane-street/position/7430822002/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jane Street",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "4dbcf05a-d0a1-4f33-bc04-d9507b512d3d",
+        "date_posted": 1748138389,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748138567,
+        "url": "https://www.janestreet.com/join-jane-street/position/5869205002/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Jane Street",
+        "title": "Tools & Compilers Research and Development Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "093c17e3-0239-4c7a-8236-6c9c63ab8170",
+        "date_posted": 1748138567,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748138967,
+        "url": "https://careers.sig.com/job/9305/Quantitative-Systematic-Trading-Internship-Master-s-Summer-2026",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna",
+        "title": "Quantitative Systematic Trading Intern, Masters",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "92d245ee-c6a9-4baf-9efa-9c83fb98ec84",
+        "date_posted": 1748138967,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748139026,
+        "url": "https://careers.sig.com/job/9306/Quantitative-Research-Internship-Master-s-Summer-2026",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna",
+        "title": "Quantitative Research Intern, Masters",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7aaf5de3-1487-4d1f-b4dd-8fef08d0c58e",
+        "date_posted": 1748139026,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748139125,
+        "url": "https://careers.sig.com/job/9053/Growth-Equity-Investment-Analyst-Internship-Summer-2026",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna",
+        "title": "Growth Equity Investment Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f03195e2-0ec3-4c89-8163-ddf13ad962e1",
+        "date_posted": 1748139125,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748139176,
+        "url": "https://careers.sig.com/job/9304/Quantitative-Systematic-Trading-Internship-PhD-Summer-2026",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna",
+        "title": "Quantitative Systematic Trading Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d81bf3bf-8a31-4027-b214-77a4d8461695",
+        "date_posted": 1748139176,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748139313,
+        "url": "https://careers.sig.com/job/9238/Quantitative-Research-Internship-PhD-Summer-2026",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna",
+        "title": "Quantitative Research Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7ccf8feb-5b2b-4929-8286-19d50dff6934",
+        "date_posted": 1748139313,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748139819,
+        "url": "https://tower-research.com/open-positions/?gh_jid=6651908",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tower Research Capital",
+        "title": "Machine Learning Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "acc124c6-3cce-4f88-a9ab-89c4b0d4f2da",
+        "date_posted": 1748139819,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748140200,
+        "url": "https://www.lockheedmartinjobs.com/job/herndon/cyber-software-engineering-intern-summer-2026/694/81556994752",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Cyber Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "75090051-0bc6-44bd-a486-90301c70279c",
+        "date_posted": 1748140200,
+        "company_url": "",
+        "is_visible": true
     }
 ]
