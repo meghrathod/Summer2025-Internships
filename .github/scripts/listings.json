@@ -1541,5 +1541,167 @@
         "date_posted": 1748306636,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748452496,
+        "url": "https://www.tesla.com/careers/search/job/243711",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Supercharger SIL Test Infrastructure Software Engineer Intern, Energy Engineering",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "011de9be-ae63-4f06-adc4-7734117d2f58",
+        "date_posted": 1748452496,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748452529,
+        "url": "https://www.tesla.com/careers/search/job/243733",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "System Validation Engineer Intern, Energy Engineering",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "d6db48c0-75da-4375-9908-50d7f566ecbb",
+        "date_posted": 1748452529,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748452808,
+        "url": "https://careers.medpace.com/jobs/11408/job",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Medpace",
+        "title": "Web Developer Intern, Feasibility & Proposals",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "1b3d5e02-0561-4fd2-ac8b-a6c1c8ff0af6",
+        "date_posted": 1748452808,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748453117,
+        "url": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-op---Fall-2025_R-011682",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johnson & Johnson",
+        "title": "Software Engineering Co-op",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "768cf45a-2369-49fe-9b05-b4b0cbc59e4b",
+        "date_posted": 1748453117,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748453179,
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/5463106004",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY",
+            "Portland, OR",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mercury",
+        "title": "Backend Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "92dc5839-c89c-40fe-9bf8-0b4d736d9b97",
+        "date_posted": 1748453179,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748453205,
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/5548410004",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY",
+            "Portland, OR",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mercury",
+        "title": "Full-stack Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "a2bcae93-069b-48a7-9b08-31c43858db7a",
+        "date_posted": 1748453205,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748453220,
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/5548047004",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY",
+            "Portland, OR",
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mercury",
+        "title": "Frontend Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "d661c723-72a2-4e21-9894-07812bae0640",
+        "date_posted": 1748453220,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748453270,
+        "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2026_REQ-22833",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GE Appliances",
+        "title": "Software Engineering Co-op",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0536a1ab-60a2-4b9d-9bcb-a5b93e9755b5",
+        "date_posted": 1748453270,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748453296,
+        "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2026_REQ-21720",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "GE Appliances",
+        "title": "Software Engineering Co-op",
+        "season": "Spring",
+        "source": "vanshb03",
+        "id": "8e4725df-488e-4ae7-9f8a-2f0ca12fd9d2",
+        "date_posted": 1748453296,
+        "company_url": "",
+        "is_visible": true
     }
 ]
