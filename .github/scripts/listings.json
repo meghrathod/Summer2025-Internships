@@ -1874,5 +1874,56 @@
         "date_posted": 1748581077,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748638810,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Tools-Analysis---2025_JR1998233",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Intern, AI Tools Analysis",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "e5b170dc-5ebd-4bcc-8e70-a2625075fbb2",
+        "date_posted": 1748638810,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748638851,
+        "url": "https://careers.amd.com/careers-home/jobs/63889?lang=en-us",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Firmware Engineering Intern/Co-Op",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "d4605270-7d1a-46e6-af92-551024369e72",
+        "date_posted": 1748638851,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748638875,
+        "url": "https://careers.amd.com/careers-home/jobs/63578?lang=en-us",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AMD",
+        "title": "Software Engineering Intern/Co-Op",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "6183fc69-1f01-4025-9d7e-211b282ef2a5",
+        "date_posted": 1748638875,
+        "company_url": "",
+        "is_visible": true
     }
 ]
