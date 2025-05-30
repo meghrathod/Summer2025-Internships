@@ -1771,5 +1771,56 @@
         "date_posted": 1748492386,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748577033,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Networking-Software-Intern--Fall--2025_JR1998188",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Networking Software Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "ec167a71-7164-4384-839f-3381cf1d554d",
+        "date_posted": 1748577033,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748577110,
+        "url": "https://job-boards.greenhouse.io/rsinternboard/jobs/7855756002?gh_jid=7855756002",
+        "locations": [
+            "Stennis, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Relativity Space",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "fd39ada5-b6fe-40a4-b39e-c764de4e91d3",
+        "date_posted": 1748577110,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748577171,
+        "url": "https://www.tesla.com/careers/search/job/243735",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Energy Engineering",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "31e04c2d-6f72-440c-a7fd-053c9e8e35ff",
+        "date_posted": 1748577171,
+        "company_url": "",
+        "is_visible": true
     }
 ]
