@@ -1977,5 +1977,90 @@
         "date_posted": 1748645257,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1748716965,
+        "url": "https://careers.leonardodrs.com/job/Beavercreek-Fall-2025-Software-Engineering-Intern-OH-45431/1295374800/",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leonardo DRS",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "0efa75c0-f334-4f3f-8c9f-7f060c166938",
+        "date_posted": 1748716965,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748716996,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRE-DevOps-Engineer-Intern--IPP---Fall-2025_JR1996817",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "SRE DevOps Engineer Intern, IPP",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "4d0e23b0-4d43-4b23-9e6d-115fadf3b0a2",
+        "date_posted": 1748716996,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748717027,
+        "url": "https://www.tesla.com/careers/search/job/243876",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Charging Distributed Systems Software Engineer Intern, Energy Engineering",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "0fdcfac8-9a23-4afb-859b-bb610eb58586",
+        "date_posted": 1748717027,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748717045,
+        "url": "https://www.tesla.com/careers/search/job/243937",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Firmware Engineer Intern, AI Hardware",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "99d348dd-d73a-4b82-a62d-7c6bf05f698d",
+        "date_posted": 1748717045,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1748717073,
+        "url": "https://job-boards.greenhouse.io/neuralink/jobs/6594261003",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Neuralink",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "17c11c35-3ea2-4558-acda-699516b5521a",
+        "date_posted": 1748717073,
+        "company_url": "",
+        "is_visible": true
     }
 ]
