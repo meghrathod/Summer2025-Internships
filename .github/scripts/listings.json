@@ -2284,5 +2284,178 @@
         "date_posted": 1749172644,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749173404,
+        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749924007?gh_jid=4749924007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TransMarket Group",
+        "title": "Systems Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "be869a9d-2920-4aa2-b2ee-f778140abb2f",
+        "date_posted": 1749173404,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749173446,
+        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749908007?gh_jid=4749908007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TransMarket Group",
+        "title": "DevOps/SRE Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bda8602f-2132-4ab5-9d44-f8d5a80954aa",
+        "date_posted": 1749173446,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749173471,
+        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749915007?gh_jid=4749915007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TransMarket Group",
+        "title": "Quantitative Trader Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "26e00142-def4-4b75-8a6d-fe80dae2ffaf",
+        "date_posted": 1749173471,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749173670,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/ofq7vfw1",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Splunk",
+        "title": "Software Engineer Intern, Frontend",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "2d37610b-5d2e-47d7-b9ef-c0e5f3c18e18",
+        "date_posted": 1749173670,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749173708,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/o7n7vfwQ",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Splunk",
+        "title": "Software Engineer Intern, Backend/Full-stack",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "a9ce21a1-67fb-45dc-a77f-db549fca98bb",
+        "date_posted": 1749173708,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749173760,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/otG8vfww",
+        "locations": [
+            "Remote",
+            "Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Splunk",
+        "title": "Software Engineer Co-Op, Backend/Full-stack",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "c8f481f0-e484-4033-88e4-b78d5ef13bfb",
+        "date_posted": 1749173760,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749173824,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Windows-AI-Engineering-Intern---Fall-2025_JR1998337",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Windows AI Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "cc7d8617-2302-46c2-88aa-9b1ecbe4076a",
+        "date_posted": 1749173824,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749173854,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Fall-2025-Co-op---Feature-Detection-and-Data-Science--Internship--_J-00321843",
+        "locations": [
+            "Wilton, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ASML",
+        "title": "Feature Detection and Data Science Co-op Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "cdda7630-e9b4-4a03-b2f1-3ede8cb1ba03",
+        "date_posted": 1749173854,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749176486,
+        "url": "https://lifeattiktok.com/search/7392099728617523507?spread=XKM9ZXE",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Tool Software Engineer Intern, TikTok Effect House",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "4433892d-730c-4ab7-ad04-d06c44f90f3a",
+        "date_posted": 1749176486,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749177218,
+        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749906007?gh_jid=4749906007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TransMarket Group",
+        "title": "Algorithmic Trader Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e4c46459-2217-4758-b370-766a79f53834",
+        "date_posted": 1749177218,
+        "company_url": "",
+        "is_visible": true
     }
 ]
