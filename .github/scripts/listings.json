@@ -2562,5 +2562,59 @@
         "date_posted": 1749262000,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749268538,
+        "url": "https://www.amazon.jobs/en/jobs/2875846/amazon-robotics-software-development-engineer-co-op-fall-2025",
+        "locations": [
+            "Westborough, MA",
+            "North Reading, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Amazon Robotics",
+        "title": "Software Development Engineer Co-Op",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "d1d88f10-7402-471a-8869-3fa42d8884ab",
+        "date_posted": 1749268538,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749269059,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Data-Science-and-Insights-Intern--Omniverse---Fall-2025_JR1996816",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Data Science and Insights Intern, Omniverse",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "87c7775c-cfe6-4bbb-aecd-9060be9403be",
+        "date_posted": 1749269059,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749269167,
+        "url": "https://www.pinterestcareers.com/jobs/6917750/2025-fall-machine-learning-intern/?gh_jid=6917750",
+        "locations": [
+            "San Francisco, CA",
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Pinterest",
+        "title": "Machine Learning Intern, Masters/PhD",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "c352773d-5803-4a57-8c37-379f300b9e32",
+        "date_posted": 1749269167,
+        "company_url": "",
+        "is_visible": true
     }
 ]
