@@ -1141,7 +1141,7 @@
             "Washington, DC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Simpson Gumpertz & Heger",
         "title": "Building Technology Intern",
         "season": "Summer",
@@ -1149,7 +1149,7 @@
         "id": "b369b5dd-1cf7-429b-a18a-4e2d99079d1c",
         "date_posted": 1748136991,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1748137043,
@@ -2455,6 +2455,111 @@
         "source": "vanshb03",
         "id": "e4c46459-2217-4758-b370-766a79f53834",
         "date_posted": 1749177218,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749260792,
+        "url": "https://ats.rippling.com/en-GB/rippling/jobs/3fd9615a-d0c7-458c-a0fc-5d9d7f0ce77c",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rippling",
+        "title": "Frontend Software Engineer Intern",
+        "season": "Winter",
+        "source": "vanshb03",
+        "id": "df70fa57-977b-4f31-832e-a0e57ed070b5",
+        "date_posted": 1749260792,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749260811,
+        "url": "https://ats.rippling.com/en-GB/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rippling",
+        "title": "Machine Learning Engineer Intern",
+        "season": "Winter",
+        "source": "vanshb03",
+        "id": "62b793bb-caea-465f-a95f-ce43bb81f1fc",
+        "date_posted": 1749260811,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749261120,
+        "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/New-York-NY-USA/Junior-Software-Developer--Fall-2025--Internship----4-months_R250013865",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "BMO",
+        "title": "Junior Software Developer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "8f98f275-5eb6-4cd8-a21b-0256fcf0de1a",
+        "date_posted": 1749261120,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749261151,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--LLM-NIM-Engineering---Fall-2025_JR1990733",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Intern, LLM NIM Engineering",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "8cb5de01-60e2-4ea2-a080-ccfc5298e2e2",
+        "date_posted": 1749261151,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749261180,
+        "url": "https://fireflyspace.com/careers/?jobId=EE4A2E87-DC33-C12B-D025-085A77D1CA8C",
+        "locations": [
+            "Cedar Park, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Firefly Aerospace",
+        "title": "Software Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "fd02b15d-cc4b-4a0e-be25-b8206af35a5a",
+        "date_posted": 1749261180,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749262000,
+        "url": "https://ats.rippling.com/en-GB/rippling/jobs/203e0cac-0e30-4603-8087-f764e8c3f85c",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rippling",
+        "title": "Software Engineer Intern",
+        "season": "Winter",
+        "source": "vanshb03",
+        "id": "859558cb-6cc3-4251-8a23-4545fdfaebfa",
+        "date_posted": 1749262000,
         "company_url": "",
         "is_visible": true
     }
