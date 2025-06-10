@@ -2650,5 +2650,124 @@
         "date_posted": 1749443786,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749595407,
+        "url": "https://job-boards.greenhouse.io/worldquant/jobs/4574082006?gh_src=78427c666us",
+        "locations": [
+            "Old Greenwich, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "WorldQuant",
+        "title": "Software Engineer Intern, AI/LLM Initiative",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "aff5ef46-63cf-4378-92a7-202fb2c2ee07",
+        "date_posted": 1749595407,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749595470,
+        "url": "https://jobs.dolby.com/careers/job/29512720?domain=dolby.com&hl=en",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dolby",
+        "title": "Cloud QA Automation Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "d6edf35d-d666-423d-92a1-87bc4ad597ce",
+        "date_posted": 1749595470,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749595513,
+        "url": "https://www.tesla.com/careers/search/job/244394",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineering Intern, Recruiting",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "cd7f878a-7af0-4da6-993b-93ffa9c74b2f",
+        "date_posted": 1749595513,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749595643,
+        "url": "https://www.careers.jnj.com/en/jobs/r-018331/front-end-software-engineering-intern/",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Johnson & Johnson",
+        "title": "Front End Software Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0523da3d-12da-47f4-855e-ce4540de5ce9",
+        "date_posted": 1749595643,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749596068,
+        "url": "https://jobs.dolby.com/careers/job/29526769",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dolby",
+        "title": "Information Security Architecture Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "e8741729-6e96-4f16-a21b-58ce51e16360",
+        "date_posted": 1749596068,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749596100,
+        "url": "https://jobs.dolby.com/careers/job/29512719",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dolby",
+        "title": "Dolby Vision Software QA Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "f4702ef2-d799-4217-932e-1b7d2bd7c12c",
+        "date_posted": 1749596100,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749596146,
+        "url": "https://jobs.dolby.com/careers/job/29512187",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dolby",
+        "title": "Video Coding Research Intern, AI Focus",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "be9f0ab4-835a-4322-87e2-1593902bc0d5",
+        "date_posted": 1749596146,
+        "company_url": "",
+        "is_visible": true
     }
 ]
