@@ -2786,5 +2786,56 @@
         "date_posted": 1749822368,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1749840316,
+        "url": "https://job-boards.greenhouse.io/8451university/jobs/8028712002",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "84.51\u00b0",
+        "title": "Agile Delivery Co-op Program",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "2c77f433-8750-437c-8f42-e168fe402f9d",
+        "date_posted": 1749840316,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749840335,
+        "url": "https://job-boards.greenhouse.io/8451university/jobs/8028856002",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "84.51\u00b0",
+        "title": "Software Engineer Co-op Program",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "4f277890-2c7a-403c-9baf-86107ec5fef3",
+        "date_posted": 1749840335,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1749840383,
+        "url": "https://jobs.smartrecruiters.com/ATPCO1/744000064390815",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ATPCO",
+        "title": "Platform Capability Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "cd575ed2-1346-405c-be65-9b6a517a524a",
+        "date_posted": 1749840383,
+        "company_url": "",
+        "is_visible": true
     }
 ]
