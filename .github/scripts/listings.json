@@ -17,6 +17,38 @@
         "is_visible": true
     },
     {
+        "date_updated": 1741114501,
+        "url": "https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-e774a855fe31/candidate/so/pm/1/pl/1/opp/9601-2026-Summer-Internship-Program-AMERS/en-GB",
+        "locations": [
+            "Atlanta, GA",
+            "Boston, MA",
+            "Chicago, IL",
+            "Mexico City, MX",
+            "Miami, FL",
+            "Montreal, QC",
+            "New York, NY",
+            "Newport Beach, CA",
+            "Princeton, NJ",
+            "San Francisco, CA",
+            "Santa Monica, CA",
+            "Sausalito, CA",
+            "Seattle, WA",
+            "Toronto, Canada",
+            "Washington, DC",
+            "Wilmington, DE"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Blackrock",
+        "title": "2026 Summer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d2c404c8-5895-4ec0-95c2-3d17aed38beb",
+        "date_posted": 1741114501,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
         "date_updated": 1744271371,
         "url": "https://www.tesla.com/careers/search/job/240953",
         "locations": [
@@ -170,14 +202,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1745624946,
+        "date_updated": 1750126997,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Software-Intern--Robotics-Platform---Fall-2025_JR1996262?q=Fall&source=jobboardvansh&locations=16fc4607fc4310011e929f7115f90000&locations=91336993fab910af6d702fae0bb4c2e8",
         "locations": [
             "Santa Clara, CA"
         ],
         "season": "Fall",
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Robotics Software Intern, Robotics Platform - Fall",
         "source": "vanshb03",
@@ -2391,13 +2423,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749173824,
+        "date_updated": 1750127015,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Windows-AI-Engineering-Intern---Fall-2025_JR1998337",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Windows AI Engineering Intern",
         "season": "Fall",
@@ -2582,13 +2614,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749269059,
+        "date_updated": 1750127021,
         "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Data-Science-and-Insights-Intern--Omniverse---Fall-2025_JR1996816",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Data Science and Insights Intern, Omniverse",
         "season": "Fall",
@@ -2835,6 +2867,117 @@
         "source": "vanshb03",
         "id": "cd575ed2-1346-405c-be65-9b6a517a524a",
         "date_posted": 1749840383,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1750126581,
+        "url": "https://www.tesla.com/careers/search/job/240889",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Fullstack Software Engineer Intern, Fleetnet",
+        "season": "Fall",
+        "source": "georgetsai2028",
+        "id": "c35a2bc9-9716-4050-9184-5936200ccc96",
+        "date_posted": 1750126581,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1750127499,
+        "url": "http://group.bnpparibas/en/careers/job-offer/2026-summer-analyst-internship-technology",
+        "locations": [
+            "Jersey CIty, NJ"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "BNP Paribas",
+        "title": "Technology Analyst Intern",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "b366e768-f6d7-40d6-b649-db2c0dc5a17c",
+        "date_posted": 1750127499,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1750127563,
+        "url": "https://careers.bankofamerica.com/en-us/students/job-detail/12929/global-quantitative-data-analytics-summer-2026-analyst-global-risk-management-multiple-locations",
+        "locations": [
+            "Atlanta, GA",
+            "Charlotte, NC",
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bank of America",
+        "title": "Quantitative Data Analytics Summer Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "0d066245-d318-4b70-ac87-98fdde208093",
+        "date_posted": 1750127563,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1750127582,
+        "url": "https://careers.bankofamerica.com/en-us/students/job-detail/12944/global-technology-summer-analyst-2026-cybersecurity-analyst-multiple-locations",
+        "locations": [
+            "Charlotte, NC",
+            "Chicago, IL",
+            "Denver, CO",
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bank of America",
+        "title": "Cybersecurity Intern",
+        "season": "Summer",
+        "source": "gracejinsotrue",
+        "id": "16c32b0f-71dc-47d6-98a8-4a6b4f97d9a5",
+        "date_posted": 1750127582,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1750128277,
+        "url": "https://careers.bankofamerica.com/en-us/students/job-detail/12942/global-technology-summer-analyst-2026-software-engineer-multiple-locations",
+        "locations": [
+            "Charlotte, NC",
+            "Chicago, IL",
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Bank of America",
+        "title": "Software Engineer Summer Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "28436037-2337-4abb-99b7-73150f69aad9",
+        "date_posted": 1750128277,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1750128407,
+        "url": "https://www.citadelsecurities.com/careers/details/campus-26-trading-fundamental-analyst-intern-us/",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "Trading Fundamental Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "b4ab7381-a892-473c-a0e4-b1cc70d3b115",
+        "date_posted": 1750128407,
         "company_url": "",
         "is_visible": true
     }
