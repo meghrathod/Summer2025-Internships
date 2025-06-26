@@ -1037,7 +1037,7 @@
             "Seattle, WA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "OpenAI",
         "title": "Software Engineer Intern/Co-Op, Applied Engineering",
         "season": "Fall",
@@ -1292,7 +1292,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Jane Street",
         "title": "Software Engineer Intern",
         "season": "Fall",
@@ -1626,13 +1626,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748453117,
+        "date_updated": 1750945539,
         "url": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-op---Fall-2025_R-011682",
         "locations": [
             "Cincinnati, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "Software Engineering Co-op",
         "season": "Fall",
@@ -1720,13 +1720,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1748453296,
+        "date_updated": 1750945544,
         "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2026_REQ-21720",
         "locations": [
             "Louisville, KY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "GE Appliances",
         "title": "Software Engineering Co-op",
         "season": "Spring",
@@ -2526,14 +2526,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749261120,
+        "date_updated": 1750945553,
         "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/New-York-NY-USA/Junior-Software-Developer--Fall-2025--Internship----4-months_R250013865",
         "locations": [
             "New York, NY",
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "BMO",
         "title": "Junior Software Developer Intern",
         "season": "Fall",
@@ -2837,13 +2837,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749840335,
+        "date_updated": 1750945522,
         "url": "https://job-boards.greenhouse.io/8451university/jobs/8028856002",
         "locations": [
             "Cincinnati, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "84.51\u00b0",
         "title": "Software Engineer Co-op Program",
         "season": "Fall",
@@ -3002,7 +3002,7 @@
         "date_updated": 1750796306,
         "url": "https://www.lockheedmartinjobs.com/job/annapolis-junction/software-engineer-intern/694/82672796176",
         "locations": [
-            "Annapolis Junction, Maryland"
+            "Annapolis Junction, MD"
         ],
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -3019,7 +3019,7 @@
         "date_updated": 1750796432,
         "url": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2026-5521",
         "locations": [
-            "New York"
+            "New York, NY"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -3036,7 +3036,7 @@
         "date_updated": 1750796485,
         "url": "https://morganstanley.tal.net/vx/candidate/apply/19159",
         "locations": [
-            "New York City"
+            "New York, NY"
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -3046,6 +3046,77 @@
         "source": "pablomoreno10",
         "id": "562ba18e-c705-47c5-8989-3cff73b10839",
         "date_posted": 1750796485,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1750945664,
+        "url": "https://www.lockheedmartinjobs.com/job/littleton/software-engineering-intern/694/82475330752",
+        "locations": [
+            "Littleton, Colorado"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Lockheed Martin",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "Its-mehul",
+        "id": "e11662df-e60f-43b6-8f9a-4745a2f21d4c",
+        "date_posted": 1750945664,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1750945726,
+        "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2026-University-Recruiting---IT-Emerging-Talent-Summer-Intern-Program--Hybrid-_R355518-1",
+        "locations": [
+            "Rahway, NJ",
+            "West Point, PA",
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Merck",
+        "title": "IT Intern",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "bf84da0c-9a6a-46f8-aff0-5b902ef342f7",
+        "date_posted": 1750945726,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1750946211,
+        "url": "https://job-boards.greenhouse.io/parachutehealth/jobs/4772847007",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Parachute Health",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "835247a6-2eee-4a4e-a824-ca60ab5dbfbc",
+        "date_posted": 1750946211,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1750946339,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineering-Intern--CUDA-Driver---Fall-2025_JR1989344",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "System Software Engineering Intern, CUDA Driver",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "9f1cd278-afa2-446f-864f-b2ea9f627754",
+        "date_posted": 1750946339,
         "company_url": "",
         "is_visible": true
     }
