@@ -3154,5 +3154,177 @@
         "date_posted": 1750976744,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751246845,
+        "url": "https://scale.com/careers/4553274005",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Scale AI",
+        "title": "Technical Advisor Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "a7e45de9-cebf-469d-884d-11617f5acc29",
+        "date_posted": 1751246845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751246874,
+        "url": "https://www.skydio.com/jobs/6220445003?gh_jid=6220445003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Skydio",
+        "title": "Middleware Software Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "6cc9c9fd-84ff-47f8-8699-3639bf665214",
+        "date_posted": 1751246874,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751246898,
+        "url": "https://www.tesla.com/careers/search/job/245029",
+        "locations": [
+            "Draper, UT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Operational Automation Engineer Intern, Residential Energy",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "c40de3ed-c2eb-47f3-96bf-8f913c385829",
+        "date_posted": 1751246898,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751247028,
+        "url": "https://careers.leonardodrs.com/job/Beavercreek-Fall-2025-Software-Engineering-Intern-OH-45431/1295356000",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Leonardo DRS",
+        "title": "Software Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "4dbd52ce-2194-4b7c-8308-48ae40a91c0d",
+        "date_posted": 1751247028,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751252617,
+        "url": "https://ag.wd3.myworkdayjobs.com/airbus/job/Bingen-WA/Internship---Software-Engineering_JR10338562",
+        "locations": [
+            "Bingen, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Airbus",
+        "title": "Software Engineering Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "aa287d6d-7919-4dad-b247-e37a085d4760",
+        "date_posted": 1751252617,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751252711,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/124737151496528582-student-researcher",
+        "locations": [
+            "Mountain View, CA",
+            "Ann Arbor, MI",
+            "Atlanta, GA",
+            "Austin, TX",
+            "Cambridge, MA",
+            "Chicago, IL",
+            "Irvine, CA",
+            "Kirkland, WA",
+            "Los Angeles, CA",
+            "Madison, WI",
+            "New York, NY",
+            "Palo Alto, CA",
+            "Princeton, NJ",
+            "Pittsburgh, PA",
+            "San Bruno, CA",
+            "Seattle, WA",
+            "San Francisco, CA",
+            "Sunnyvale, CA",
+            "Washington D.C., DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google",
+        "title": "Student Researcher",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "d0193614-3226-4dbe-9c4e-d07bcec9127b",
+        "date_posted": 1751252711,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751252823,
+        "url": "https://jobs.lever.co/hermeus/db80c020-a26f-491f-8915-d6a28d44933e",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hermeus",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "b9cc96e5-4b02-48dd-942f-e867d304cce4",
+        "date_posted": 1751252823,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751252839,
+        "url": "https://job-boards.greenhouse.io/ada18/jobs/4746106007",
+        "locations": [
+            "Remote",
+            "US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Ada18",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "4c73218f-6512-4e2c-ac8b-46b24626e1b3",
+        "date_posted": 1751252839,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751252883,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Systems-Engineer-Intern_R0221551",
+        "locations": [
+            "Fayetteville, NC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Booz Allen Hamilton",
+        "title": "Systems Engineer Intern",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "0b776873-d912-4387-bedc-76a0a738c328",
+        "date_posted": 1751252883,
+        "company_url": "",
+        "is_visible": true
     }
 ]
