@@ -3462,5 +3462,359 @@
         "date_posted": 1751390040,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751390235,
+        "url": "https://www.imc.com/us/careers/jobs/4580808101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IMC",
+        "title": "Quantitative Research Intern, Trading",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "f7d0df2c-5120-4477-bd46-91c2f10cda30",
+        "date_posted": 1751390235,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751390250,
+        "url": "https://www.imc.com/us/careers/jobs/4580757101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "IMC",
+        "title": "Quantitative Trader Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "7af02008-8445-4e27-81ed-4288a257b85d",
+        "date_posted": 1751390250,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751390309,
+        "url": "https://job-boards.greenhouse.io/genevatrading/jobs/4767553007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Geneva Trading",
+        "title": "Quantitative Trader Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "4ae7a6f6-0376-4acb-9766-1c7d5879fb01",
+        "date_posted": 1751390309,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751391303,
+        "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern, Production Infrastructure",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e3f6912b-e056-4a03-a003-b2de74aa4ed4",
+        "date_posted": 1751391303,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751391333,
+        "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern, Production Infrastructure",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "d948a247-926d-4949-b8f7-7e7c12041501",
+        "date_posted": 1751391333,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751391357,
+        "url": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern, Defense Tech",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "570f2225-9a43-4681-b028-2f24886df7aa",
+        "date_posted": 1751391357,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751391386,
+        "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern, Defense Tech",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "377aa55a-ba25-4b4a-b2bc-eabd7e87a1d4",
+        "date_posted": 1751391386,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751391404,
+        "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern, Defense Tech",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "8f2f251b-2c39-43d5-a4e2-d802ec71357c",
+        "date_posted": 1751391404,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751391426,
+        "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0",
+        "locations": [
+            "Washington D.C, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "ae574ec6-cde4-4969-b776-c3514a315dff",
+        "date_posted": 1751391426,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751391438,
+        "url": "https://jobs.lever.co/palantir/2fb19022-bb65-4af8-b6fa-31beb345c140",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "89f61024-3858-4e86-80eb-0281659f8885",
+        "date_posted": 1751391438,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751391461,
+        "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "6c8c1bae-a4a1-44ef-adb2-305fa96a13fe",
+        "date_posted": 1751391461,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751391676,
+        "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Forward Deployed Software Engineer Intern, US Government",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "9fe4e3a4-4d8e-4ffa-9155-afdb0b7766bc",
+        "date_posted": 1751391676,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751391711,
+        "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Forward Deployed Software Engineer Intern, Commercial",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "cfde799f-f542-4b3d-8869-4731ba510457",
+        "date_posted": 1751391711,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751391756,
+        "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b",
+        "locations": [
+            "Washington, D.C."
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Forward Deployed Software Engineer Intern, US Government",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "93d6c3a4-f4bb-4d10-8c76-a552f3e2ed7e",
+        "date_posted": 1751391756,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751391811,
+        "url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "75363ef5-1670-4c96-96ec-267702d8b776",
+        "date_posted": 1751391811,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751391947,
+        "url": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Forward Deployed Software Engineer Intern, US Government",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a6b2e00c-6d4e-4b72-b092-ecde3ac7a9fb",
+        "date_posted": 1751391947,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751392325,
+        "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e40901cc-64f0-46d9-873f-4b6505755c62",
+        "date_posted": 1751392325,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751392364,
+        "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Palantir",
+        "title": "Software Engineer Intern, Infrastructure",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "e617c3a8-0819-4e30-854a-805b448e18c5",
+        "date_posted": 1751392364,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751392407,
+        "url": "https://careers.caterpillar.com/en/jobs/r0000312109/2026-summer-corporate-intern-engineering/?source=pookie",
+        "locations": [
+            "Tucson, AZ",
+            "Griffin, GA",
+            "Decatur",
+            "Mossville",
+            "Mossville",
+            "Washington",
+            "Pontiac, IL",
+            "Lafayette, IN",
+            "Brooklyn Park, MN",
+            "Clayton, NC",
+            "Fort Worth",
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Caterpillar",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "73305ff4-33fe-45b9-9b2b-87d84d2d0d6c",
+        "date_posted": 1751392407,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751392535,
+        "url": "https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2502597EXTERNALENGLOBAL/2026-Engineering-Intern-Computer-Engineering-Software-Engineering-Computer-Science",
+        "locations": [
+            "Minneapolis, MN",
+            "Bloomington, MN",
+            "Noblesville, IN",
+            "St Paul, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Trane Technologies",
+        "title": "Engineering Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "1387e9a9-6372-4eca-8029-1d44dc0f9d4f",
+        "date_posted": 1751392535,
+        "company_url": "",
+        "is_visible": true
     }
 ]
