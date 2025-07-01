@@ -1105,7 +1105,7 @@
             "Kent, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Stoke Space",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -2820,13 +2820,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749840316,
+        "date_updated": 1751389912,
         "url": "https://job-boards.greenhouse.io/8451university/jobs/8028712002",
         "locations": [
             "Cincinnati, OH"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "84.51\u00b0",
         "title": "Agile Delivery Co-op Program",
         "season": "Fall",
@@ -3024,7 +3024,7 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "D. E. Shaw",
-        "title": "Software Developer Intern (New York) \u2013 Summer 2026",
+        "title": "Software Developer Intern",
         "season": "Summer",
         "source": "ianhoangdev",
         "id": "c05b677e-a8ce-433e-beba-cadf835cdb8c",
@@ -3421,11 +3421,45 @@
         "sponsorship": "Other",
         "active": true,
         "company_name": "IMC",
-        "title": "Software Engineer Intern - Summer 2026",
+        "title": "Software Engineer Intern",
         "season": "Summer",
         "source": "ouckah",
         "id": "3cfcd6cd-4618-4ce6-9d7c-77214ec85fc9",
         "date_posted": 1751386762,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751387656,
+        "url": "https://careers.salesforce.com/en/jobs/jr301789/summer-2026-intern-associate-product-manager-apm/",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Salesforce",
+        "title": "Associate Product Manager Intern",
+        "season": "Summer",
+        "source": "mouchatt6",
+        "id": "6a1383dc-82eb-440c-bee0-b6d2bdb9bd07",
+        "date_posted": 1751387656,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751390040,
+        "url": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000003P6DN2A0/ai-internship-developing-experimenting-with-ai-tools",
+        "locations": [
+            "Washington, District of Columbia (D.C.)"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Nasa",
+        "title": "AI Internship: Developing & Experimenting with AI Tools",
+        "season": "Fall",
+        "source": "jcodes101",
+        "id": "fd9229b1-173f-448f-91ed-383cfb1e4a78",
+        "date_posted": 1751390040,
         "company_url": "",
         "is_visible": true
     }
