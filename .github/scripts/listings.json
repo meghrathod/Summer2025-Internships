@@ -3850,5 +3850,151 @@
         "date_posted": 1751424845,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751454598,
+        "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "81f5fccc-3e16-4b69-a854-d8f7d14e8332",
+        "date_posted": 1751454598,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751454618,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-us/",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "Quantitative Trading Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "02ae0204-5105-48e9-8c42-9c8e11b22a42",
+        "date_posted": 1751454618,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751454635,
+        "url": "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "FPGA Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "2afba971-5170-4246-b694-e832658ee0ee",
+        "date_posted": 1751454635,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751454650,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "Quantitative Research Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "50c57c61-e782-41ab-b801-a7f2336d65a3",
+        "date_posted": 1751454650,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751454666,
+        "url": "https://www.citadelsecurities.com/careers/details/launch-intern-us/",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "Launch Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "46ea0135-a5d7-4772-ae40-4f00457e4525",
+        "date_posted": 1751454666,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751454704,
+        "url": "https://www.citadelsecurities.com/careers/details/designated-market-maker-dmm-trading-intern-us/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel Securities",
+        "title": "Designated Market Maker (DMM) Trading Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "38f05d35-538f-4601-9715-fca0c4a12842",
+        "date_posted": 1751454704,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751454820,
+        "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+        "locations": [
+            "Chicago, IL",
+            "Miami, FL",
+            "New York, NY",
+            "Houston, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "3e43bbc9-4dda-49fe-bc78-9b010eae5822",
+        "date_posted": 1751454820,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751454891,
+        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/",
+        "locations": [
+            "Greenwich, CT",
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Citadel",
+        "title": "Quantitative Research Analyst Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "a378447b-544a-4684-9111-bb9ebf1ebaca",
+        "date_posted": 1751454891,
+        "company_url": "",
+        "is_visible": true
     }
 ]
