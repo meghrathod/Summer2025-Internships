@@ -1428,7 +1428,7 @@
             "Herndon, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Lockheed Martin",
         "title": "Cyber Software Engineering Intern",
         "season": "Summer",
@@ -3552,7 +3552,7 @@
         "date_updated": 1751391357,
         "url": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7",
         "locations": [
-            "New York, NY"
+            "Washington, D.C."
         ],
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -4079,6 +4079,41 @@
         "source": "vanshb03",
         "id": "5c1b44f8-932e-4e5a-be2d-2ba1403cd470",
         "date_posted": 1751455233,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751484185,
+        "url": "https://wabtec.wd1.myworkdayjobs.com/en-US/wabtec_careers/job/Summer-2026-LEAD-Information-Technology-Intern_R0099765",
+        "locations": [
+            "Pittsburgh, PA",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wabtec",
+        "title": "Summer 2026 LEAD Information Technology Intern",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "e6c3cd46-2f04-4b7c-8a15-95681c4c515a",
+        "date_posted": 1751484185,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751484214,
+        "url": "https://careers.t-mobile.com/fall-2025-product-manager-intern/job/99F63B25A0C19559715D8EC4C351D427",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "T-Mobile",
+        "title": "Product Manager Intern",
+        "season": "Fall",
+        "source": "nchalla3",
+        "id": "0d19d30a-69cd-43ea-84ca-f07a4ceb6232",
+        "date_posted": 1751484214,
         "company_url": "",
         "is_visible": true
     }
