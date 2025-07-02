@@ -3996,5 +3996,90 @@
         "date_posted": 1751454891,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1751454918,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7973726002/?gh_src=9fb491cd2",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "namanmodi260",
+        "id": "a4b13ece-017d-4128-b71c-1968561208b7",
+        "date_posted": 1751454918,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751455067,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/8033071002/",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "Quantitative Research Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "bfbda897-56c3-4ace-8b4c-5dfc76ab58c6",
+        "date_posted": 1751455067,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751455110,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7832160002/",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "Quantitative Research Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "46d4aab9-7214-4a5d-9664-08661b9be395",
+        "date_posted": 1751455110,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751455133,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7967593002/",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Optiver",
+        "title": "Quantitative Research Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "599435a1-da66-45ee-95cc-c12a88fe7ef4",
+        "date_posted": 1751455133,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751455233,
+        "url": "https://careers.sig.com/job/9532/Quantitative-Strategy-Developer-Internship-Summer-2026",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna",
+        "title": "Quantitative Strategy Developer Intern",
+        "season": "Summer",
+        "source": "vanshb03",
+        "id": "5c1b44f8-932e-4e5a-be2d-2ba1403cd470",
+        "date_posted": 1751455233,
+        "company_url": "",
+        "is_visible": true
     }
 ]
