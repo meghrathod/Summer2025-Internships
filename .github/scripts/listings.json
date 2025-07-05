@@ -2735,13 +2735,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1749595643,
+        "date_updated": 1751747075,
         "url": "https://www.careers.jnj.com/en/jobs/r-018331/front-end-software-engineering-intern/",
         "locations": [
             "Santa Clara, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Johnson & Johnson",
         "title": "Front End Software Engineering Intern",
         "season": "Summer",
@@ -4201,6 +4201,23 @@
         "source": "dlln9001",
         "id": "d4d2ec95-c02d-4152-b8a7-2b496ed9eadf",
         "date_posted": 1751650317,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751748785,
+        "url": "https://jobs.bytedance.com/en/position/7522742153819670792/detail?spread=A3T3U6W",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Backend Software Engineer Intern, Product RD and Infrastructure",
+        "season": "Fall",
+        "source": "vanshb03",
+        "id": "6e54bde8-8c18-4b79-b0ce-9c7a9cd6ce59",
+        "date_posted": 1751748785,
         "company_url": "",
         "is_visible": true
     }
