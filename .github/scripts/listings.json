@@ -4170,14 +4170,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751650291,
+        "date_updated": 1751907780,
         "url": "https://www.amazon.jobs/en/jobs/2878134/software-development-engineer-intern",
         "locations": [
             "Boston, MA",
             "Seattle, WA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Amazon",
         "title": "Software Development Intern",
         "season": "Summer",
@@ -4271,5 +4271,40 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1751907760,
+        "url": "https://www.capitalonecareers.com/job/mclean/product-development-internship-program-summer-2026/31238/83485599760",
+        "locations": [
+            "McLean, VA",
+            "Plano, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Capital One",
+        "title": "Product Development Intern",
+        "season": "Summer",
+        "source": "SebRodDev",
+        "id": "791b5821-3230-4bb7-903c-076f208cc281",
+        "date_posted": 1751907760,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1751907807,
+        "url": "https://jobs.lever.co/MBRDNA/e987dc81-f177-4b4a-b605-670d8b68d00e?gh_src=Handshake&iisn=Handshake&iis=Handshake&src=Handshake&source=Handshake&ref=Handshake&utm_medium=Handshake&referral=Handshake",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Mercedes-Benz",
+        "title": "Software Developer - AIX Intern",
+        "season": "Fall",
+        "source": "nchalla3",
+        "id": "043889c9-1d4c-4553-884e-2ed39da26541",
+        "date_posted": 1751907807,
+        "company_url": "",
+        "is_visible": true
     }
 ]
