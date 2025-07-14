@@ -4646,5 +4646,41 @@
         "date_posted": 1752391629,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1752523527,
+        "url": "https://careers.sig.com/job/SUSQA004Y9571?mode=apply",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Susquehanna",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "hfeng20",
+        "id": "0154c697-b4f0-4da2-aecd-7fcafa588e62",
+        "date_posted": 1752523527,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752523598,
+        "url": "https://careers.caterpillar.com/en/jobs/r0000313300/2026-summer-corporate-intern-digital-and-analytics",
+        "locations": [
+            "Chicago, IL",
+            "Peoria, IL",
+            "Irving, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Caterpillar",
+        "title": "Digital and Analytics Intern",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "61e291fb-5b9b-4915-a41e-b27dc47db136",
+        "date_posted": 1752523598,
+        "company_url": "",
+        "is_visible": true
     }
 ]
