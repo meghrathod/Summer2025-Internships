@@ -3190,13 +3190,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751252617,
+        "date_updated": 1753043043,
         "url": "https://ag.wd3.myworkdayjobs.com/airbus/job/Bingen-WA/Internship---Software-Engineering_JR10338562",
         "locations": [
             "Bingen, WA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Airbus",
         "title": "Software Engineering Intern",
         "season": "Fall",
@@ -4084,13 +4084,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751519705,
+        "date_updated": 1753043048,
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Winter-Spring-2026_JR1999627?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&workerSubType=ab40a98049581037a3ada55b087049b7",
         "locations": [
             "US, MO, St. Louis"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "NVIDIA",
         "title": "Performance Engineer Intern, Gaming",
         "season": "Spring",
@@ -4308,13 +4308,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752164507,
+        "date_updated": 1753043051,
         "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Data-Analyst-Co-op-Intern---Spring-2026_59735",
         "locations": [
             "Tampa, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The Mosaic Company",
         "title": "Data Analyst Intern, Co-op",
         "source": "vanshb03",
@@ -5043,5 +5043,73 @@
         "date_posted": 1753035112,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753044041,
+        "url": "https://www.governmentjobs.com/careers/mbta/jobs/5008638/software-engineer-intern-undergrad-students",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Massachusetts Bay Transportation Authority",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "1e0fc1c9-c1e3-402b-9725-13d91156cd0b",
+        "date_posted": 1753044041,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1753044056,
+        "url": "https://careers.leonardodrs.com/job/Melbourne-Fall-2025-Software-Engineering-Intern-%28MLB%2C-FL%29-FL-32935/1308605900/?jobPipeline=Indeed",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Leonardo DRS",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "e80d558c-5e75-4437-883e-f9a240117c0d",
+        "date_posted": 1753044056,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1753044063,
+        "url": "https://careers.mta.org/jobs/16438894-software-analyst-slash-developer-fleet-technologies-group-emerging-talent-intern?tm_job=12316&tm_event=view&tm_company=47560&HRS_SUBSOURCE_ID=1341",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "MTA",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "66d324fb-65ef-45e5-8614-0ac24d6091fb",
+        "date_posted": 1753044063,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
+    },
+    {
+        "date_updated": 1753044069,
+        "url": "https://lifeattiktok.com/search/7525635858708646152?spread=XKM9ZXE",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "TikTok",
+        "title": "Machine Learning Engineer Intern, TikTok-Recommendation",
+        "source": "vanshb03",
+        "id": "8a9a0ca7-760f-424a-be56-35a5c34077d3",
+        "date_posted": 1753044069,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Fall"
     }
 ]
