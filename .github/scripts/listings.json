@@ -3396,13 +3396,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751387656,
+        "date_updated": 1752991212,
         "url": "https://careers.salesforce.com/en/jobs/jr301789/summer-2026-intern-associate-product-manager-apm/",
         "locations": [
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Salesforce",
         "title": "Associate Product Manager Intern",
         "season": "Summer",
@@ -4873,14 +4873,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752646317,
+        "date_updated": 1752991222,
         "url": "https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2026/31238/83803176160",
         "locations": [
             "McLean, VA",
             "Rishmond, VA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Capital One",
         "title": "Data Analyst Intern",
         "season": "Summer",
@@ -4989,6 +4989,23 @@
         "source": "DutrieuxLU",
         "id": "f089385d-617a-4d41-b212-d0534dec7aeb",
         "date_posted": 1752732725,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1752991251,
+        "url": "https://kohler.csod.com/ux/ats/careersite/16/home/requisition/67738?c=kohler&source=LinkedIn",
+        "locations": [
+            "Kohler, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Kohler",
+        "title": "Digital Intern",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "ed6da867-bf42-496b-aa24-3c8cfc49273e",
+        "date_posted": 1752991251,
         "company_url": "",
         "is_visible": true
     }
