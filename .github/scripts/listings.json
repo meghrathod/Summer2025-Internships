@@ -5113,7 +5113,7 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1753079044,
+        "date_updated": 1753106763,
         "url": "https://careers.gevernova.com/global/en/job/GVXGVWGLOBALR5005281EXTERNALENGLOBAL/GE-Vernova-Digital-Technology-Internship-Summer-2026",
         "locations": [
             "Greenville",
@@ -5125,13 +5125,32 @@
             "other GE Vernova locations"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "GE Vernova",
         "title": "Digital Technology Intern",
         "season": "Summer",
         "source": "caoye310",
         "id": "a965b6b4-52ea-4e64-907b-6865e32ae6ce",
         "date_posted": 1753079044,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753106510,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Spring-2026-Avionics-Software-Engineering-Intern---Undergraduate_R52403",
+        "locations": [
+            "Seattle, WA",
+            "Denver, CO",
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Blue Origin",
+        "title": "Avionics Software Engineering Intern",
+        "season": "Spring",
+        "source": "karthik961",
+        "id": "48cc9ef8-3977-4401-bbad-ffdb3952604f",
+        "date_posted": 1753106510,
         "company_url": "",
         "is_visible": true
     }
