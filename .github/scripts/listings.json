@@ -5243,5 +5243,109 @@
         "date_posted": 1753113017,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753214983,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=4501189007",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA",
+            "Toronto, ON"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tenstorrent",
+        "title": "Software Intern - AI Compilers",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "aad5a9cb-07a9-4f3d-aa67-afa083f279c4",
+        "date_posted": 1753214983,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753215216,
+        "url": "https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/XMLNAME-2026-Technology-Internship-Program_R72035?jobFamily=8cc34509fd6910020c408e4228020000",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "M&T Bank",
+        "title": "2026 Technology Internship Program",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "26e07bed-6f5d-46d7-bf75-bf2499e0f0e5",
+        "date_posted": 1753215216,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753215256,
+        "url": "https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/XMLNAME-2026-Technology-Development-Program---Software-Engineering_R72033",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "M&T Bank",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "6b62fb9f-e5b2-4642-aa97-6f8de860f23e",
+        "date_posted": 1753215256,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753215340,
+        "url": "https://careers.kearneyco.com/jobs/4822",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Kearney&Company",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "b68ff75a-a996-48bb-818e-7a735268c931",
+        "date_posted": 1753215340,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753215378,
+        "url": "https://gnw.wd1.myworkdayjobs.com/en-US/GNW/job/Richmond%2C-Virginia/Genworth-IT-Development-Program-Intern---Summer-2026_REQ-250327?workerSubType=7fa6841689a6106a8c0af76995631b08",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Genworth",
+        "title": "IT Intern",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "36eb59d2-d51a-42ad-a5b9-2cfdc0455726",
+        "date_posted": 1753215378,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753215408,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Front-Office-Software-Engineer-Internship--Summer-2026-_R1106",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Castleton Commodities International",
+        "title": "Front Office Software Engineer Intern",
+        "season": "Summer",
+        "source": "Junebuglovesyou",
+        "id": "efd1a91e-a10a-445f-94f4-d89d071c9545",
+        "date_posted": 1753215408,
+        "company_url": "",
+        "is_visible": true
     }
 ]
