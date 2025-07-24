@@ -637,13 +637,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1746564690,
+        "date_updated": 1753369132,
         "url": "https://jobs.lever.co/nimblerx/58e71e79-f977-4311-894d-f77e5fe88dce",
         "locations": [
             "Redwood City, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Nimble",
         "title": "Software Engineer Intern - Fall",
         "season": "Fall",
@@ -3464,13 +3464,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1751390309,
+        "date_updated": 1753369132,
         "url": "https://job-boards.greenhouse.io/genevatrading/jobs/4767553007",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Geneva Trading",
         "title": "Quantitative Trader Intern",
         "season": "Summer",
@@ -5136,7 +5136,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753106510,
+        "date_updated": 1753369146,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Spring-2026-Avionics-Software-Engineering-Intern---Undergraduate_R52403",
         "locations": [
             "Seattle, WA",
@@ -5144,7 +5144,7 @@
             "Los Angeles, CA"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "company_name": "Blue Origin",
         "title": "Avionics Software Engineering Intern",
         "season": "Spring",
@@ -5304,7 +5304,7 @@
         "locations": [
             "Alexandria, VA"
         ],
-        "sponsorship": "Other",
+        "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "company_name": "Kearney&Company",
         "title": "Technology Intern",
@@ -5405,13 +5405,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1753228381,
+        "date_updated": 1753369164,
         "url": "https://cccis.wd1.myworkdayjobs.com/en-US/broadbean_external/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014089",
         "locations": [
             "Chicago, IL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "CCC Intelligent Solutions Inc.",
         "title": "AI Enablement Intern",
         "source": "vanshb03",
@@ -5583,6 +5583,23 @@
         "source": "rayank906",
         "id": "c3f47785-f39d-4dc9-879a-de691711399d",
         "date_posted": 1753299118,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753368957,
+        "url": "https://jobs.ashbyhq.com/Lynk/c7f7e208-f784-4970-980b-9a0c7b0e8ec7",
+        "locations": [
+            "Washington DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lynk",
+        "title": "Telecommunications Intern",
+        "season": "Summer",
+        "source": "kb42",
+        "id": "037ccd6f-7e3f-4d6b-b7e6-78dd4efa6d47",
+        "date_posted": 1753368957,
         "company_url": "",
         "is_visible": true
     }
