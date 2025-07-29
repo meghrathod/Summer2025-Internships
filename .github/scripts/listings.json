@@ -5741,5 +5741,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Fall"
+    },
+    {
+        "date_updated": 1753746667,
+        "url": "https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2026-2/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hudson River Trading",
+        "title": "Algorithm Development Quant Research Intern",
+        "season": "Summer",
+        "source": "RobertP2705",
+        "id": "bfae74cc-b4c2-43cc-9113-2bea8d4daeea",
+        "date_posted": 1753746667,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753746685,
+        "url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026-2/",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hudson River Trading",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "RobertP2705",
+        "id": "496ea0f0-714c-4497-8b38-767cd40af1fb",
+        "date_posted": 1753746685,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753746718,
+        "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-33875",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KeyBank",
+        "title": "Analytics and Quantitative Modeling Intern",
+        "season": "Summer",
+        "source": "RobertP2705",
+        "id": "30fa6fce-02d2-451b-be62-31ab019c3178",
+        "date_posted": 1753746718,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753747452,
+        "url": "https://jobs.lever.co/Arcade/07c31ffc-8333-4819-bde3-e2fd4272ad86",
+        "locations": [
+            "Presidio, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Arcade",
+        "title": "Software Engineer Intern",
+        "season": "Fall",
+        "source": "RobertP2705",
+        "id": "b68c125a-3915-42c3-b2c7-e9d3dc085650",
+        "date_posted": 1753747452,
+        "company_url": "",
+        "is_visible": true
     }
 ]
