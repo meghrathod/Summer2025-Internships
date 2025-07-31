@@ -4665,7 +4665,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1752523598,
+        "date_updated": 1753973908,
         "url": "https://careers.caterpillar.com/en/jobs/r0000313300/2026-summer-corporate-intern-digital-and-analytics",
         "locations": [
             "Chicago, IL",
@@ -4673,7 +4673,7 @@
             "Irving, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Caterpillar",
         "title": "Digital and Analytics Intern",
         "season": "Summer",
@@ -6543,6 +6543,40 @@
         "source": "kb42",
         "id": "fa2cd518-0417-46af-bd11-5490b7cc08e4",
         "date_posted": 1753921538,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753973937,
+        "url": "https://careers.newyorklife.com/careers?query=%23Techcampus&location=any&pid=30149944&domain=newyorklife.com&sort_by=relevance",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "New York Life Insurance",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "d7799e03-4749-4575-bea0-3404a9e22e66",
+        "date_posted": 1753973937,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753974000,
+        "url": "https://gdmissionsystems.com/careers/intern-software-engineer-orlando-fl-usa-2025-67225-opportunity",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "William-Leung",
+        "id": "69f94901-a162-4fb6-a854-a7f9976ac8be",
+        "date_posted": 1753974000,
         "company_url": "",
         "is_visible": true
     }
