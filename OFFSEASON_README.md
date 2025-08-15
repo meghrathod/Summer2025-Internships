@@ -46,6 +46,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Tesla | Software Engineer Intern, Linux Update Systems | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/248062?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | ↳ | Software Engineer Intern, Update Systems | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/248104?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | ↳ | System Software Engineer Intern, System Software | Palo Alto, CA | <a href="https://www.tesla.com/careers/search/job/248064?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
+| Silimate | EDA QA/Testing Intern 🇺🇸 | Mountain View, CA | <a href="https://www.ycombinator.com/companies/silimate/jobs/1FT8OGR-eda-qa-testing-intern?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | GE Vernova | CIC Software Engineer Intern, Grid Solutions 🇺🇸 | Rochester, NY | <a href="https://careers.gevernova.com/global/en/job/R5017939/GE-Vernova-CIC-Software-Engineer-Intern-Fall-2026?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | Atomic Semi | Embedded Software Engineering Intern | San Francisco, CA | <a href="https://jobs.ashbyhq.com/AtomicSemi/13e95284-dbcf-4cf2-8151-c9687dfc1889?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | New York Post | Technology Intern | New York, NY | <a href="https://dowjones.wd1.myworkdayjobs.com/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/Intern--Technology_Job_Req_48194?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 14 |
@@ -104,7 +105,6 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Tesla | Software Machine Learning Engineer, Reliability Energy Engineering | Palo Alto, CA | <a href="https://www.tesla.com/en_IE/careers/search/job/internship-software-machine-learning-engineer-reliability-energy-engineering-fall-2025-242665?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | Splunk | Site Reliability Engineer Intern 🛂 | Remote | <a href="https://jobs.jobvite.com/careers/splunk-careers/job/oFhewfwq?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
 | ↳ | Product Manager Intern 🛂 | Remote | <a href="https://jobs.jobvite.com/careers/splunk-careers/job/ocD8vfwc?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 10 |
-| Mercedes-Benz | Software Developer - AIX Intern | San Jose, CA | <a href="https://jobs.lever.co/MBRDNA/e987dc81-f177-4b4a-b605-670d8b68d00e?gh_src=Handshake&iisn=Handshake&iis=Handshake&src=Handshake&source=Handshake&ref=Handshake&utm_medium=Handshake&referral=Handshake&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 07 |
 | vly.ai | Full-Stack + Applied AI Software Engineering Intern 🇺🇸 | San Francisco, CA | <a href="https://www.ycombinator.com/companies/vly-ai-2/jobs/5xe004o-full-stack-applied-ai-software-engineering-intern?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 06 |
 | Peak Nano | Software Engineer Intern 🇺🇸 | Macedonia, OH | <a href="https://www.peaknano.com/careers/software-engineer-intern-spring-26?utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 06 |
 | ByteDance | Backend Software Engineer Intern, Product RD and Infrastructure 🛂 | San Jose, CA | <a href="https://jobs.bytedance.com/en/position/7522742153819670792/detail?spread=A3T3U6W&utm_source=ouckah"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Jul 05 |
@@ -170,6 +170,7 @@ This repo is inspired by [Pitt CSC & Simplify Repo](https://github.com/SimplifyJ
 | Blue Origin | Avionics Software Engineering Intern 🇺🇸 | Seattle, WA</br>Denver, CO</br>Los Angeles, CA | 🔒 | Jul 21 |
 | Pinterest | Software Engineering Intern | Toronto, Canada | 🔒 | Jul 11 |
 | The Mosaic Company | Data Analyst Intern, Co-op | Tampa, FL | 🔒 | Jul 10 |
+| Mercedes-Benz | Software Developer - AIX Intern | San Jose, CA | 🔒 | Jul 07 |
 | Hitachi Energy USA Inc | AI/ML Engineering Intern | Remote | 🔒 | Jul 06 |
 | T-Mobile | Product Manager Intern | Bellevue, WA | 🔒 | Jul 02 |
 | NVIDIA | Performance Engineer Intern, Gaming | US, MO, St. Louis | 🔒 | Jul 02 |
