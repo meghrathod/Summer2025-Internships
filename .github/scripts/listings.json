@@ -8635,13 +8635,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755164943,
+        "date_updated": 1755611248,
         "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1448534",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Cisco",
         "title": "Software Engineer Intern",
         "season": "Summer",
@@ -9396,5 +9396,124 @@
         "date_posted": 1755604160,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755611766,
+        "url": "https://aexp.eightfold.ai/careers/job/30702556?hl=en",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "e0925c63-b66d-46fc-a45a-6eccb1f439dc",
+        "date_posted": 1755611766,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755611820,
+        "url": "https://aexp.eightfold.ai/careers/job/30702550?hl=en",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "3e31b46e-902c-4c2e-b4ac-5fb099481813",
+        "date_posted": 1755611820,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755612036,
+        "url": "https://aexp.eightfold.ai/careers/job/30702546?hl=en",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "American Express",
+        "title": "Software Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "e41953dc-6b3e-496f-ae3b-d38da2b526dd",
+        "date_posted": 1755612036,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755611568,
+        "url": "https://careers.blizzard.com/global/en/job/BLENGLOBALR025871EXTERNALENGLOBAL/Graphics-Engineering-Intern",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Activision Blizzard",
+        "title": "Graphics Engineering Intern, Overwatch",
+        "source": "vanshb03",
+        "id": "12c7f066-36bb-4959-8d92-0fcf4d87470b",
+        "date_posted": 1755611568,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755611606,
+        "url": "https://joinbytedance.com/search/7538139519473092882",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Software Engineer Intern, Multi-Cloud CDN Platform",
+        "source": "vanshb03",
+        "id": "4a381c61-90df-47ec-96ac-a63147b6b9a7",
+        "date_posted": 1755611606,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755611631,
+        "url": "https://joinbytedance.com/search/7535953226975054098",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ByteDance",
+        "title": "Machine Learning Engineer Intern, Global E-commerce Risk Control",
+        "source": "vanshb03",
+        "id": "ea2c86b9-322a-4f61-a303-cfd201db90a8",
+        "date_posted": 1755611631,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1755611663,
+        "url": "https://careers.cargill.com/en/job/atlanta/software-engineer-intern-summer-2026-atlanta-ga/23251/85180324464",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Cargill",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "91b6664d-cc51-45f8-9698-b8053d4cf73a",
+        "date_posted": 1755611663,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
