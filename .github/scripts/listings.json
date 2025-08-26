@@ -9991,7 +9991,6 @@
         ],
         "sponsorship": "Other",
         "active": false,
-        "active": false,
         "company_name": "Paypal",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -11209,13 +11208,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1756222282,
+        "date_updated": 1756241583,
         "url": "https://jobs.dayforcehcm.com/en-US/thg/ALLCAREERS/jobs/38789",
         "locations": [
             "Worcester, MA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "The Hanover",
         "title": "Cloud Engineer Intern",
         "source": "vanshb03",
@@ -11328,5 +11327,126 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1756240368,
+        "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/XMLNAME-2100827-Summer-2026-Undergraduate-Internship---Technology_2117047",
+        "locations": [
+            "United States"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Fidelity",
+        "title": "Undergraduate Intern, Technology",
+        "source": "vanshb03",
+        "id": "c198d5ad-62ed-46c9-828b-51096a1f5b93",
+        "date_posted": 1756240368,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1756241740,
+        "url": "https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-dev-ops-engineer/4673/85430606768",
+        "locations": [
+            "Maryland Heights, MO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Spectrum",
+        "title": "Associate Dev Ops Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "b447a693-ca7b-4ead-8aa1-aa3ed9ab1b22",
+        "date_posted": 1756241740,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756241758,
+        "url": "https://jobs.spectrum.com/job/charlotte/2026-summer-intern-associate-dev-ops-engineer/4673/85279001840",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Spectrum",
+        "title": "Associate Dev Ops Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "7bc08dbf-7b75-4769-aeae-50f454b8e41a",
+        "date_posted": 1756241758,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756241789,
+        "url": "https://jobs.ashbyhq.com/abridge/5a73a97b-d2c4-4cf3-8fce-081b3cb92a3b",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Abridge",
+        "title": "Full Stack Engineering Intern",
+        "season": "Summer",
+        "source": "XaJason",
+        "id": "d0b4012c-5069-4a13-a1a9-c82fec7f483a",
+        "date_posted": 1756241789,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756241808,
+        "url": "https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-software-developer/4673/85449990864",
+        "locations": [
+            "Maryland Heights, MO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Spectrum",
+        "title": "Associate Software Developer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "04f81fb9-61e5-4df2-8b4a-d217e9844f29",
+        "date_posted": 1756241808,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756241824,
+        "url": "https://jobs.hilton.com/us/en/job/COR015AL/2026-Corporate-Summer-Internship-Technology-Cyber-Engineering-Product-Management",
+        "locations": [
+            "McLean, VA",
+            "Memphis, TN",
+            "Dallas, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Hilton",
+        "title": "Technology Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "059dc66b-c432-4fb7-b80e-bdccd4d8106e",
+        "date_posted": 1756241824,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756241845,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1863950/Cloud-Network-Engineer%3A-Internship-Opportunities---Redmond",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Cloud Network Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "f6a10211-2938-4cd7-85c1-f713db2654f7",
+        "date_posted": 1756241845,
+        "company_url": "",
+        "is_visible": true
     }
 ]
