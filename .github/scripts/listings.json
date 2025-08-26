@@ -8618,13 +8618,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1755164904,
+        "date_updated": 1756185328,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3496176?src=LinkedIn",
         "locations": [
             "Detroit, MI"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Detroit Pistons",
         "title": "Software Development Intern",
         "season": "Summer",
@@ -8975,13 +8975,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1755265941,
+        "date_updated": 1756185249,
         "url": "https://careers.skyworksinc.com/job/Austin-Applications-Engineer-Intern-%28May-2026-Aug-2026%29-TX-73301/1317275100/",
         "locations": [
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Skyworks",
         "title": "Applications Engineer Intern, Power Access",
         "source": "vanshb03",
@@ -9980,7 +9980,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755895313,
+        "date_updated": 1756185373,
         "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0129980",
         "locations": [
             "San Jose, CA",
@@ -9990,7 +9990,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Paypal",
         "title": "Software Engineering Intern",
         "season": "Summer",
@@ -10961,6 +10961,129 @@
         "source": "aprameyak",
         "id": "564d0ef5-50f4-43b0-9f78-dbf7741a3648",
         "date_posted": 1756162081,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756185154,
+        "url": "https://jobs.dropbox.com/listing/7183241/apply",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Dropbox",
+        "title": "Software Engineering Intern",
+        "season": "Summer",
+        "source": "jaximus808",
+        "id": "6fa6a1e4-7796-42fe-812f-af82156bafba",
+        "date_posted": 1756185154,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756185166,
+        "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0825-1423&BRID=1230773&SBDID=943&lang=1",
+        "locations": [
+            "Fairfax, VA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CGI",
+        "title": "Software Developer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "14396964-6b2a-485c-ac1f-4841142ad843",
+        "date_posted": 1756185166,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756185187,
+        "url": "https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/details/Campus---Technology-Program-Intern-_JR1262",
+        "locations": [
+            "Plano, TX",
+            "Reston, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Fannie Mae",
+        "title": "Technology Program Intern\u202f",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "7ed89646-5c79-4fc6-953a-ddcbfca9d832",
+        "date_posted": 1756185187,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756185201,
+        "url": "https://careers.crowe.com/job/R-50098/AI-Functional-Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Crowe",
+        "title": "AI Functional Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "a129030b-4476-4b10-b513-ce5ed2364e3c",
+        "date_posted": 1756185201,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756185221,
+        "url": "https://careers.crowe.com/job/R-50106/Cybersecurity-Intern",
+        "locations": [
+            "Chicago, IL",
+            "Dallas, TX",
+            "New York, NY",
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Crowe",
+        "title": "Cybersecurity Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "95eaaaa4-9624-4263-980d-585754bba60f",
+        "date_posted": 1756185221,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756185234,
+        "url": "https://careers.crowe.com/job/R-50113/GRC-Technology-Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Crowe",
+        "title": "GRC Technology Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "63e510d1-6d96-40d8-a090-c213afc48ffc",
+        "date_posted": 1756185234,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756185276,
+        "url": "https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/details/Campus---Chief-Security-Office-Program-Intern_JR1267-1",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Fannie Mae",
+        "title": "Chief Security Office Program Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "82140b2e-6f9e-49e1-a2cd-fa40ffeb3338",
+        "date_posted": 1756185276,
         "company_url": "",
         "is_visible": true
     }
