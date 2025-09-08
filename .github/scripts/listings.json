@@ -15466,5 +15466,168 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1757344345,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007022",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Texas Instruments",
+        "title": "Information Technology Intern, Software",
+        "source": "vanshb03",
+        "id": "c5cc3697-a997-412b-add6-d0f9f0751f58",
+        "date_posted": 1757344345,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757346575,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/97848244867867334-technical-program-manager-intern-bsms-summer-2026",
+        "locations": [
+            "Mountain View, CA",
+            "Ann Arbor, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google",
+        "title": "Technical Program Manager Intern, BS/MS",
+        "source": "vanshb03",
+        "id": "85c4b4d4-c602-4f7e-921d-8e1b7338256d",
+        "date_posted": 1757346575,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757346580,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/141518372821967558-product-design-engineering-intern-bsms-summer-2026",
+        "locations": [
+            "Mountain View, CA",
+            "Ann Arbor, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google",
+        "title": "Product Design Engineering Intern, BS/MS",
+        "source": "vanshb03",
+        "id": "89ba0514-4c6a-4bf6-9b05-6d8a331b373e",
+        "date_posted": 1757346580,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757346584,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/126044533367415494-user-experience-engineer-intern-bsms-summer-2026?q=Intern&location=United%20States",
+        "locations": [
+            "Mountain View, CA",
+            "Atlanta, GA",
+            "Austin, TX",
+            "Boulder, CO",
+            "Bellevue, WA",
+            "Cambridge, MA",
+            "Chicago, IL",
+            "Irvine, CA",
+            "Kirkland, WA",
+            "Los Angeles, CA",
+            "Madison, WI",
+            "New York, NY",
+            "Palo Alto, CA",
+            "Portland, OR",
+            "Pittsburgh, PA",
+            "Reston, VA",
+            "Redmond, WA",
+            "San Diego, CA",
+            "Goleta, CA",
+            "San Bruno, CA",
+            "Seattle, WA",
+            "San Francisco, CA",
+            "Santa Cruz, CA",
+            "Sunnyvale, CA",
+            "Washington D.C., DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google",
+        "title": "User Experience Engineer Intern, BS/MS",
+        "source": "vanshb03",
+        "id": "ed2e0e24-940d-414a-81f5-faa4a55083bb",
+        "date_posted": 1757346584,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757346617,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/107132933369668294-security-engineering-intern-bsms-summer-2026?q=Intern&location=United%20States",
+        "locations": [
+            "Mountain View, CA",
+            "Ann Arbor, MI"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Google",
+        "title": "Security Engineering Intern, BS/MS",
+        "source": "vanshb03",
+        "id": "7b2cb1a1-4188-46d4-be5e-042b00be6395",
+        "date_posted": 1757346617,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757346993,
+        "url": "https://job-boards.greenhouse.io/vast/jobs/4594952006",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Vast",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "e6cab598-a2bd-4dac-a77b-d13feb90fbd8",
+        "date_posted": 1757346993,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757347093,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8149465002",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Data Science Intern, Decisions - Product",
+        "source": "vanshb03",
+        "id": "a4d2ff36-da48-4895-acf4-a6e34e13465c",
+        "date_posted": 1757347093,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757347096,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8134376002",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lyft",
+        "title": "Data Science Intern, Algorithms",
+        "source": "vanshb03",
+        "id": "5defdbfc-36b3-4ebe-a62f-1c6d6314170a",
+        "date_posted": 1757347096,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
