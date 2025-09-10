@@ -15855,5 +15855,60 @@
         "date_posted": 1757466228,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757466400,
+        "url": "https://careers.snowflake.com/us/en/job/SNCOUS4C6519509550483990BBE831D97EC14DEXTERNALENUS1BDB0EA7A7F444999F846B35FDD488EA/Software-Engineer-Intern-Core-Engineering-Spring-2026",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern, Core Engineering",
+        "source": "vanshb03",
+        "id": "0fe122d7-1911-4a08-b2a5-7a47f29b3164",
+        "date_posted": 1757466400,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1757466412,
+        "url": "https://careers.snowflake.com/us/en/job/SNCOUS72F58A8D2F534905B8F4CE153CF9D32AEXTERNALENUS874E8974AF23491B9720EDDC6E75F1EB/Software-Engineer-Intern-Infrastructure-Automation-Spring-2026",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Snowflake",
+        "title": "Software Engineer Intern, Infrastructure Automation",
+        "source": "vanshb03",
+        "id": "f1a8c298-b6da-4dc1-8c34-c3d76915be0c",
+        "date_posted": 1757466412,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1757468734,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CampusApplyOnly/job/OFallon-Missouri/Software-Engineer-Intern_R-257331",
+        "locations": [
+            "O'Fallon, MO",
+            "Atlanta, GA",
+            "Arlington, VA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Mastercard",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "68cf1044-b07d-43f2-bf40-a2c2bcea3f32",
+        "date_posted": 1757468734,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
