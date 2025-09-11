@@ -16448,5 +16448,59 @@
         "date_posted": 1757571264,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757577476,
+        "url": "https://www.workatastartup.com/jobs/81528",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "SID",
+        "title": "Research Intern",
+        "source": "vanshb03",
+        "id": "2f07ef1c-719d-410c-b6c9-d62e3ef357f3",
+        "date_posted": 1757577476,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757576517,
+        "url": "https://block.xyz/careers/jobs/4904196008",
+        "locations": [
+            "Remote",
+            "Bay Area, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Block, Inc.",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "370db1a5-9fbe-46a0-8adc-b991047ea029",
+        "date_posted": 1757576517,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1757579328,
+        "url": "https://jobs.jobvite.com/windriver/job/ooShxfwO",
+        "locations": [
+            "Walnut Creek, CA",
+            "San Diego, CA",
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Wind River",
+        "title": "Embedded Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "7d331660-55d4-4d61-8c5f-5c93bacb0632",
+        "date_posted": 1757579328,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
