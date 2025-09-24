@@ -19672,13 +19672,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758625796,
+        "date_updated": 1758679779,
         "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2026-Quantitative-Investing-Internship-Program_77528",
         "locations": [
             "Baltimore, MD"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "T. Rowe Price",
         "title": "Quantitative Investing Intern",
         "season": "Summer",
@@ -19927,13 +19927,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758625796,
+        "date_updated": 1758679803,
         "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/Summer-2026-Data-Scientist-Associate-Internship_RQ206390",
         "locations": [
             "Remote"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "GDIT",
         "title": "Data Scientist Associate Intern",
         "season": "Summer",
@@ -20325,13 +20325,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758642118,
+        "date_updated": 1758679811,
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Autonomy-Engineer-Intern_R41052",
         "locations": [
             "Pittsburgh, PA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Oshkosh",
         "title": "Autonomy Engineer Intern",
         "season": "Summer",
@@ -20391,5 +20391,125 @@
         "date_posted": 1758642118,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758641907,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/5656952004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Truveta",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "b8b80cfc-149b-46c2-9114-aee0331fb28e",
+        "date_posted": 1758641907,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758641911,
+        "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-commercialization-mountain-view-california-united-states-san-francisco",
+        "locations": [
+            "Mountain View, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Waymo",
+        "title": "Software Engineering Intern, Commercialization",
+        "source": "vanshb03",
+        "id": "f2f9ccf6-1750-4754-97cd-d7d673d3709a",
+        "date_posted": 1758641911,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758641916,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Security-Automation-Engineer/210837",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Security Automation Engineer Intern",
+        "source": "vanshb03",
+        "id": "290801e6-33e4-42c9-b6c7-1682c11a42cb",
+        "date_posted": 1758641916,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758679356,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024589",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Emerson",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "03e29f38-518d-40f4-ba00-ef680021a727",
+        "date_posted": 1758679356,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758679360,
+        "url": "https://inmar.wd1.myworkdayjobs.com/en-US/inmarcareers/job/Headquarters-Winston-Salem-NC/Backend-Platform-Intern--Digital-Promotions-Network-Team--Summer-2026_JY2526552",
+        "locations": [
+            "Winston Salem, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Inmar Intelligence",
+        "title": "Backend Platform Intern, Digital Promotions Network Team",
+        "source": "vanshb03",
+        "id": "ddf16154-1753-43ec-a1a6-b3beb0e44cc0",
+        "date_posted": 1758679360,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1758679362,
+        "url": "https://www.tesla.com/careers/search/job/251798",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Fullstack C++ Engineer Intern, Vehicle User Interface",
+        "source": "vanshb03",
+        "id": "025530e0-fa14-420f-b556-8b1d1df85ef5",
+        "date_posted": 1758679362,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1758679386,
+        "url": "https://nordsonhcm.wd501.myworkdayjobs.com/en-US/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Intern--Software-_REQ48046",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nordson Electronics Solutions",
+        "title": "Software Intern",
+        "source": "vanshb03",
+        "id": "91d18b4a-ac03-4d0a-921d-398b0a70b2f4",
+        "date_posted": 1758679386,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
