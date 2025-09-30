@@ -22098,5 +22098,39 @@
         "date_posted": 1759241482,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759247920,
+        "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/details/Product-Manager-Intern_JR-0100801?source=Careers_Website_ec",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Workday",
+        "title": "Product Manager Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "b016e463-cb18-4251-80f7-f48da8e7f62c",
+        "date_posted": 1759247920,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759247939,
+        "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/details/Cybersecurity-Engineer-Intern_JR-0100803?source=Careers_Website_ec",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Workday",
+        "title": "Cybersecurity Engineer Intern",
+        "season": "Summer",
+        "source": "aprameyak",
+        "id": "54046c99-568c-41ea-885b-9a93c4f77900",
+        "date_posted": 1759247939,
+        "company_url": "",
+        "is_visible": true
     }
 ]
