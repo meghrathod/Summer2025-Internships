@@ -6225,13 +6225,13 @@
         "season": "Fall"
     },
     {
-        "date_updated": 1753842629,
+        "date_updated": 1760482397,
         "url": "https://job-boards.greenhouse.io/figureai/jobs/4573642006",
         "locations": [
             "San Jose, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Figure",
         "title": "Robotics Integration Intern",
         "source": "vanshb03",
@@ -26848,13 +26848,13 @@
         "season": "Summer"
     },
     {
-        "date_updated": 1760409225,
+        "date_updated": 1760482402,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7317499",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Coinbase",
         "title": "Product Manager Intern, HR Technology",
         "source": "vanshb03",
@@ -26948,5 +26948,90 @@
         "company_url": "",
         "is_visible": true,
         "season": "Winter"
+    },
+    {
+        "date_updated": 1760482559,
+        "url": "https://corporate.visa.com/en/jobs/REF93865Q",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Data Science Intern, Global Data Office",
+        "source": "vanshb03",
+        "id": "867d15cd-c337-47d5-9eec-13a859d8d968",
+        "date_posted": 1760482559,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760482561,
+        "url": "https://corporate.visa.com/en/jobs/REF93884E",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Data Science Intern, Global Data Office",
+        "source": "vanshb03",
+        "id": "bbb87169-0592-4534-acf1-ae4d474fda11",
+        "date_posted": 1760482561,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760482563,
+        "url": "https://corporate.visa.com/en/jobs/REF93947M",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Machine Learning Engineer Intern, Global Data Office",
+        "source": "vanshb03",
+        "id": "946c7544-044f-49b7-843f-ab7e565a82c5",
+        "date_posted": 1760482563,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760482565,
+        "url": "https://corporate.visa.com/en/jobs/REF93945P",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Visa",
+        "title": "Machine Learning Engineer Intern, Global Data Office",
+        "source": "vanshb03",
+        "id": "5225ab96-b004-4b89-967e-85400e062c0e",
+        "date_posted": 1760482565,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760482566,
+        "url": "https://corporate.visa.com/en/jobs/REF93882I",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Visa",
+        "title": "AI and Data Insights Intern, Corporate Services",
+        "source": "vanshb03",
+        "id": "2315be3d-fbf8-4d58-b003-e39a8da1e9b9",
+        "date_posted": 1760482566,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
