@@ -26880,5 +26880,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1760410018,
+        "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/3643466/Clarity-Partners-LLC/Software-Development-Internship",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Clarity Partners",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "af5e5e65-78ee-4f3c-a33f-4f6fcd2f7b04",
+        "date_posted": 1760410018,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760417376,
+        "url": "https://www.workatastartup.com/jobs/83361",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "a0.dev",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1d6ec853-1c56-4b60-b993-ea57b00b2644",
+        "date_posted": 1760417376,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760417380,
+        "url": "https://www.workatastartup.com/jobs/83225",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Herdora",
+        "title": "Member Of Technical Staff Intern",
+        "source": "vanshb03",
+        "id": "2d99dbd0-d10b-4dc6-a8a3-c1f4863cb0bd",
+        "date_posted": 1760417380,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1760417383,
+        "url": "https://www.workatastartup.com/jobs/83224",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "company_name": "Herdora",
+        "title": "Member Of Technical Staff Intern",
+        "source": "vanshb03",
+        "id": "97c140d6-b7b3-43e7-bc68-5c4ab5e1f56a",
+        "date_posted": 1760417383,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
     }
 ]
