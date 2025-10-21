@@ -28952,5 +28952,93 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1761042022,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Engineering--Intern_2532274-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "KLA",
+        "title": "Applications Engineering Intern",
+        "source": "vanshb03",
+        "id": "52542050-02f9-4814-80cb-9250d384c2b1",
+        "date_posted": 1761042022,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761042031,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1900014",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern, AI Hardware",
+        "source": "vanshb03",
+        "id": "b3febba0-3684-40ef-8fba-3a85ee7f7e59",
+        "date_posted": 1761042031,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761045828,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1900003",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Microsoft",
+        "title": "Research Intern, Machine Learning and Statistics",
+        "source": "vanshb03",
+        "id": "3160a9ea-ef71-4eca-86f7-9b42346ef6b4",
+        "date_posted": 1761045828,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761045816,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Ecommerce-Machine-Learning_25WD92181",
+        "locations": [
+            "Remote",
+            "San Francisco, CA",
+            "Toronto, Canada",
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Ecommerce Machine Learning Intern",
+        "source": "vanshb03",
+        "id": "0d204261-7125-405d-8203-b5ca5d508e63",
+        "date_posted": 1761045816,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761047536,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Intern--Robotics-Integration-Applications_25WD92298-1",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Autodesk",
+        "title": "Robotics Integration Applications Intern",
+        "source": "vanshb03",
+        "id": "8a5dabc5-75f8-43e5-8e25-f889ad40dc7a",
+        "date_posted": 1761047536,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
