@@ -30145,5 +30145,158 @@
         "date_posted": 1761722726,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1761828758,
+        "url": "https://jobs.lever.co/anysignal/b5f278c9-9911-49c2-b5e8-0ed61f7194eb",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "AnySignal",
+        "title": "Embedded Software Intern",
+        "source": "vanshb03",
+        "id": "be68a13c-08f2-4734-a668-cf2432de542b",
+        "date_posted": 1761828758,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761828902,
+        "url": "https://careers.northwesternmutual.com/corporate-careers/jr-44068/software-engineering-intern-summer-2026/",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Northwestern Mutual",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "19449414-5143-4ab7-8a74-743f42a403b2",
+        "date_posted": 1761828902,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761828905,
+        "url": "https://www.tesla.com/careers/search/job/254611",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Service Engineering",
+        "source": "vanshb03",
+        "id": "9057193a-90f9-44b1-a340-55afc5e35804",
+        "date_posted": 1761828905,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1761828908,
+        "url": "https://www.tesla.com/careers/search/job/254590",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Software Engineer Intern, Information Security",
+        "source": "vanshb03",
+        "id": "8df90d1f-71fe-4c59-9447-99953ff5bc76",
+        "date_posted": 1761828908,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1761828910,
+        "url": "https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Software-Engineering_R-25-14747",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Moog",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "ae8f8dbe-f905-4683-bf86-d0c05c80fbe6",
+        "date_posted": 1761828910,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761828913,
+        "url": "https://ptc.eightfold.ai/careers/job/137477472164",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "d23d937a-6d72-4cb9-aeba-debcd91b7d91",
+        "date_posted": 1761828913,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761828915,
+        "url": "https://ptc.eightfold.ai/careers/job/137477482427",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "PTC",
+        "title": "Software Development Intern",
+        "source": "vanshb03",
+        "id": "7380fcd5-9e2c-4d0b-bf53-7f026e22a7c0",
+        "date_posted": 1761828915,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1761828917,
+        "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27233/job",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Rivian and Volkswagen Group Technologies",
+        "title": "Software Engineering Intern, OTA Integration",
+        "source": "vanshb03",
+        "id": "583948eb-4c1f-49c8-b891-a2c4d5b5d947",
+        "date_posted": 1761828917,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1761828927,
+        "url": "https://jobs.lever.co/tri/eef0e312-6b25-44e4-b2df-0d3a4ee3533e",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Toyota Research Institute",
+        "title": "Human Interactive Driving Intern, Uncertainty-Aware Control",
+        "source": "vanshb03",
+        "id": "58aafe50-17ee-4d31-84e2-15dfd823ca9d",
+        "date_posted": 1761828927,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
     }
 ]
