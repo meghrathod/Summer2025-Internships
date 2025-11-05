@@ -30967,13 +30967,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762018230,
+        "date_updated": 1762351737,
         "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/4956747008",
         "locations": [
             "Remote in USA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "EQT Corporation",
         "title": "AI Intern",
         "season": "Summer",
@@ -31035,13 +31035,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762018230,
+        "date_updated": 1762351737,
         "url": "https://job-boards.greenhouse.io/inspiremedicalsystemsinc/jobs/4956555008?gh_jid=4956555008",
         "locations": [
             "Minneapolis, MN"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Inspire Medical Systems",
         "title": "Firmware Engineering Intern",
         "season": "Summer",
@@ -31052,13 +31052,13 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762018230,
+        "date_updated": 1762351737,
         "url": "https://job-boards.greenhouse.io/inspiremedicalsystemsinc/jobs/4956410008?gh_jid=4956410008",
         "locations": [
             "Minneapolis, MN"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Inspire Medical Systems",
         "title": "Firmware Engineering Intern",
         "season": "Summer",
@@ -31632,6 +31632,312 @@
         "source": "vanshb03",
         "id": "9cafaa17-fc54-439a-ab0c-99b58a1a537c",
         "date_posted": 1762348933,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762349161,
+        "url": "https://jobs.lumen.com/global/en/job/340224/Intern-Engineer-Summer-2026",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumen",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "a3b46481-85ca-4e5a-9109-09ef9821d566",
+        "date_posted": 1762349161,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762351421,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4830565007",
+        "locations": [
+            "Reston, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Anduril Industries",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "e1310ba4-7e7e-434b-ac42-2ddf82a302b0",
+        "date_posted": 1762351421,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762351428,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4830901007",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Anduril Industries",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "381fcbc3-969c-437e-b391-df4f3f41fa12",
+        "date_posted": 1762351428,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762351432,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/XMLNAME-2026-Spring-Summer-Application-Engineer-Co-op---PA_171551",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Vanguard",
+        "title": "Application Engineer Co-op",
+        "source": "vanshb03",
+        "id": "d00ea0d6-c963-4a2b-92b8-a3b32050eea7",
+        "date_posted": 1762351432,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1762351438,
+        "url": "https://jobs.lever.co/brilliant/758ab26f-5a61-4079-918f-f984d9818391",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Brilliant",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "dd5d94a6-654f-4166-a04a-87c96c03d5df",
+        "date_posted": 1762351438,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762351461,
+        "url": "https://jobs.lever.co/nimblerx/ceea467c-75bb-4822-b5d5-4c2fae2c3264",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Nimble",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "bf26fa9b-98e5-4796-8b6c-ae5b79e3981f",
+        "date_posted": 1762351461,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762351472,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/rec_rtx_ext_gateway/job/TX234-Richardson-1717-CityLine-1717-East-CityLine-Drive-Building-C17-Richardson-TX-75082-USA/XMLNAME-2026-Intern---Software-Engineering-Intern-MI---Onsite--TX-_01802957",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Raytheon",
+        "title": "Software Engineering Intern, MI",
+        "source": "vanshb03",
+        "id": "c1f36563-f88e-4cc3-b868-81ada1262056",
+        "date_posted": 1762351472,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762351481,
+        "url": "https://jobs.lever.co/zoox/7c1344fd-ba29-469e-a0bc-62b89b35a405",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Zoox",
+        "title": "Systems Engineering Intern",
+        "source": "vanshb03",
+        "id": "a982db88-7aab-4a99-a5b3-559486dabf1f",
+        "date_posted": 1762351481,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762351484,
+        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2026-Summer-Intern---Software-Engineer_2523686-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CIBC",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "137f2f85-f928-4612-88fd-e15206f07196",
+        "date_posted": 1762351484,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762351487,
+        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2026-Summer-Intern---Software-Engineer_2523685-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CIBC",
+        "title": "Software Engineer Intern",
+        "source": "vanshb03",
+        "id": "4043f77c-4866-4028-a40d-7737860787e0",
+        "date_posted": 1762351487,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762351491,
+        "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Engineer-Summer-2026/1340113700/",
+        "locations": [
+            "Remote, US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Lumen Technologies",
+        "title": "Engineer Intern",
+        "source": "vanshb03",
+        "id": "00a15a8e-4911-419e-966a-a4b0c9afbb04",
+        "date_posted": 1762351491,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762351559,
+        "url": "https://levistraussandco.wd5.myworkdayjobs.com/external/job/HQ-Office-San-Francisco-CA-USA/FIT-Intern-Web-Engineer_R-0144964",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Levi Strauss & Co.",
+        "title": "Web Engineer Intern, F.I.T.",
+        "source": "vanshb03",
+        "id": "ab85d495-c193-4c0a-867b-bf96eeb55ecd",
+        "date_posted": 1762351559,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762351598,
+        "url": "https://careers-gdms.icims.com/jobs/68767/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems, Inc.",
+        "title": "Software Engineering Intern, C++ Development",
+        "source": "vanshb03",
+        "id": "f573810f-1c04-46ae-bac5-5e961cf6635c",
+        "date_posted": 1762351598,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762351621,
+        "url": "https://careers-gdms.icims.com/jobs/68359/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems, Inc.",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "07687ed0-497f-436f-b99a-5f3b02152be5",
+        "date_posted": 1762351621,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762351623,
+        "url": "https://careers-gdms.icims.com/jobs/69045/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems, Inc.",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1d82bc85-1809-41f7-ba2e-18b6cda4ac45",
+        "date_posted": 1762351623,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762351625,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2026-Cloud-Native-Developer-Undergrad-Intern_R013988",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "The Aerospace Corporation",
+        "title": "Cloud Native Developer Intern",
+        "source": "vanshb03",
+        "id": "e4e4e8d8-5328-4d66-8386-cea2cbc1a89a",
+        "date_posted": 1762351625,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762351630,
+        "url": "https://jobs.keysight.com/external/jobs/50038?lang=en-us&icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Keysight Technologies",
+        "title": "Application Engineer Intern, Signal Processing",
+        "source": "vanshb03",
+        "id": "1b43ef3c-6aba-48d0-bad6-5fc9f4528df3",
+        "date_posted": 1762351630,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1762351639,
+        "url": "https://jobs.lever.co/saviynt/17118748-6a11-44e2-9bf9-58badadb6ac0",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Saviynt LABS",
+        "title": "Software Engineering Intern, R&D",
+        "source": "vanshb03",
+        "id": "08a2e725-0d0a-4da9-871c-89b80a261aba",
+        "date_posted": 1762351639,
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
