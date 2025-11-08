@@ -31941,5 +31941,73 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1762616282,
+        "url": "https://www.awardco.com/position?gh_jid=5458149004",
+        "locations": [
+            "Lindon, Utah"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Awardco",
+        "title": "Product Manager Intern",
+        "season": "Summer",
+        "source": "joshuadargan",
+        "id": "1aa67713-48f2-4e2f-9a68-a5c2c74c5086",
+        "date_posted": 1762616282,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762616321,
+        "url": "https://www.awardco.com/position?gh_jid=4322220004",
+        "locations": [
+            "Lindon, UT"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Awardco",
+        "title": "Back-End Software Engineer Intern",
+        "season": "Summer",
+        "source": "joshuadargan",
+        "id": "849a0754-e4aa-4bef-93a3-a7e7d80aeb63",
+        "date_posted": 1762616321,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762616342,
+        "url": "https://www.awardco.com/position?gh_jid=4136562004",
+        "locations": [
+            "Lindon, UT"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Awardco",
+        "title": "Front-End Software Engineer Intern",
+        "season": "Summer",
+        "source": "joshuadargan",
+        "id": "a941ef28-4158-4d9d-9cd5-e8b60d4dc3ea",
+        "date_posted": 1762616342,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762616418,
+        "url": "https://www.awardco.com/position?gh_jid=4136568004",
+        "locations": [
+            "Lindon, UT"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Awardco",
+        "title": "Software Test Engineer Intern",
+        "season": "Summer",
+        "source": "joshuadargan",
+        "id": "fc246013-f79c-43ea-ab40-21735ea42560",
+        "date_posted": 1762616418,
+        "company_url": "",
+        "is_visible": true
     }
 ]
