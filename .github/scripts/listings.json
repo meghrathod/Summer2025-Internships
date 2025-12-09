@@ -33234,5 +33234,311 @@
         "company_url": "",
         "is_visible": true,
         "season": "Summer"
+    },
+    {
+        "date_updated": 1765307179,
+        "url": "https://www.workatastartup.com/jobs/86239",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "EdgeTrace",
+        "title": "AI Full-Stack Engineering Intern",
+        "source": "vanshb03",
+        "id": "d4334d6b-d66c-4f44-ae17-52fb24e1bae9",
+        "date_posted": 1765307179,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Winter"
+    },
+    {
+        "date_updated": 1765307300,
+        "url": "https://careers.airbnb.com/positions/7453837/",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Airbnb",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "522aff17-b9c1-45a6-a0bb-8c0b91ad0b87",
+        "date_posted": 1765307300,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1765307313,
+        "url": "https://seagatecareers.com/job/Longmont-Firmware-Development-Engineering-Intern-Summer-2026-CO-80501/1348189200/?feedId=325900",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Seagate",
+        "title": "Firmware Development Engineering Intern",
+        "source": "vanshb03",
+        "id": "fc39a1d3-9641-406c-8788-440504a32292",
+        "date_posted": 1765307313,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1765307321,
+        "url": "https://jobs.commscope.com/job/Catawba-Intern%2C-IMS-Software-Engineering-Nort/1347995900/?feedId=221800",
+        "locations": [
+            "Catawba, NC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "CommScope",
+        "title": "IMS Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "c89b2ce6-02da-4392-ac1a-0b44f8de8161",
+        "date_posted": 1765307321,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1765307352,
+        "url": "https://www.tesla.com/careers/search/job/257413?tags=organicjob",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Fullstack Software Engineer Intern, Fleetnet",
+        "source": "vanshb03",
+        "id": "233ee50d-f91b-450a-848c-e2f24846eb61",
+        "date_posted": 1765307352,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1765307362,
+        "url": "https://www.tesla.com/careers/search/job/257414?tags=organicjob",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Tesla",
+        "title": "Embedded Software Engineer Intern, Firmware Platforms",
+        "source": "vanshb03",
+        "id": "65a84bb2-eac5-4bb0-b583-2b5176322022",
+        "date_posted": 1765307362,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1765307367,
+        "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Engineering-Intern-Summer-2026-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1348445200/?feedId=320000&codes=WBIND",
+        "locations": [
+            "North Reading, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "company_name": "Teradyne",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "1beee003-f6b7-40f7-84da-bf98d9575712",
+        "date_posted": 1765307367,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1765307433,
+        "url": "https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/?codes=IND",
+        "locations": [
+            "Shoreview, US"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Westinghouse Electric Co",
+        "title": "Software Engineering Intern",
+        "source": "vanshb03",
+        "id": "adef32ac-4b1c-4a7e-8b38-df5a7672b55e",
+        "date_posted": 1765307433,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1765307514,
+        "url": "https://careers.viasat.com/jobs/5417?lang=en-us",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Viasat",
+        "title": "Software Engineer Intern, Product Development",
+        "source": "vanshb03",
+        "id": "a63fa362-e2a0-44a6-b19c-d4c84d451d0e",
+        "date_posted": 1765307514,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1765307538,
+        "url": "https://www.disneycareers.com/en/job/-/-/391/89103818640?codes=INDEED",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "The Walt Disney Company",
+        "title": "Software Engineering Intern, B2B Products",
+        "source": "vanshb03",
+        "id": "a72f51fd-0e19-42af-aa6a-715212dbbf21",
+        "date_posted": 1765307538,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1765307546,
+        "url": "https://otto-engineering-inc.breezy.hr/p/5fe03a0ab3df-firmware-embedded-engineer-internship-communications?ittk=G2W5Y90D9Y",
+        "locations": [
+            "Carpentersville, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "OTTO Engineering",
+        "title": "Firmware/Embedded Engineer Intern, Communications",
+        "source": "vanshb03",
+        "id": "e5680f1b-45a3-47c1-bccd-b9711b3faa73",
+        "date_posted": 1765307546,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1765307559,
+        "url": "https://jobs.ashbyhq.com/Etched/605c286d-be56-4e83-83b8-436d29ce17df",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "ETCHED",
+        "title": "Software Intern",
+        "source": "vanshb03",
+        "id": "be8079d2-1ed2-4921-8abb-5b9f6737618d",
+        "date_posted": 1765307559,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1765308053,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5674863004",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "PlayStation",
+        "title": "Graphics Programming Intern",
+        "source": "vanshb03",
+        "id": "3647f811-ae94-42d5-a80d-66ea26598dfb",
+        "date_posted": 1765308053,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1765308058,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Security-Software-Engineer-Intern/210837",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Electronic Arts",
+        "title": "Security Automation Engineer Intern",
+        "source": "vanshb03",
+        "id": "a6f5625b-be03-4752-b8e2-40c474e0b669",
+        "date_posted": 1765308058,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1765308326,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Software-Engineering-Intern--Omniverse-Replicator---Summer-2026_JR2008720",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "NVIDIA",
+        "title": "Software Engineering Intern, Omniverse Replicator",
+        "source": "vanshb03",
+        "id": "6cb12bd3-5748-4ec8-9c54-af6f4c194ec9",
+        "date_posted": 1765308326,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Summer"
+    },
+    {
+        "date_updated": 1765308332,
+        "url": "https://recruiting.ultipro.com/asc1003/JobBoard/57b0d3c6-a250-9a6a-7787-1093a619de01/OpportunityDetail?opportunityId=3a0cbcf9-06ee-4452-9c9a-ee13f49482b0",
+        "locations": [
+            "Leawood, KS"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "Ascend Learning",
+        "title": "Software Engineer Intern, Software Reliability Engineering",
+        "source": "vanshb03",
+        "id": "c377e260-f115-4dfc-af30-8181149331ca",
+        "date_posted": 1765308332,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1765308339,
+        "url": "https://careers-gdms.icims.com/jobs/68446/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "company_name": "General Dynamics Mission Systems, Inc.",
+        "title": "Engineering Intern",
+        "source": "vanshb03",
+        "id": "183b1fc8-d3ac-4025-b5fc-95b9ca42e71c",
+        "date_posted": 1765308339,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
+    },
+    {
+        "date_updated": 1765308345,
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000097610715",
+        "locations": [
+            "Oakville, Canada"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "company_name": "Veolia",
+        "title": "Application Engineering Intern",
+        "source": "vanshb03",
+        "id": "8b55f0e1-0b62-40bf-9635-cc46a6bf45e2",
+        "date_posted": 1765308345,
+        "company_url": "",
+        "is_visible": true,
+        "season": "Spring"
     }
 ]
